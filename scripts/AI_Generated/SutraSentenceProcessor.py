@@ -16,8 +16,11 @@ class SutraSentenceProcessor:
     """Process and enhance sutra sentences extracted in Phase 1."""
 
     def __init__(self):
-        # Pattern to match Panini sutra references: (पा.X।X।X)
-        self.sutra_pattern = r'\(पा\.(\d+)।(\d+)।(\d+)\)'
+        # Pattern to match Panini sutra references
+        # Supports both danda (।) and pipe (|) separators
+        # - (पा.X।X।X) - danda format (raghuvansham)
+        # - (पा.X|X|X) - pipe format (kumarasambhavam)
+        self.sutra_pattern = r'\(पा\.(\d+)[।|](\d+)[।|](\d+)\)'
         # Pattern to match backticks (used around sutra names)
         self.backtick_pattern = r'`([^`]*)`'
 
@@ -92,6 +95,7 @@ class SutraSentenceProcessor:
         # Return structured data
         return {
             "sutra": sutra,
+            "word": "",
             "sentence": cleaned_text
         }
 

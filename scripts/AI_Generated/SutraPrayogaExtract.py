@@ -14,6 +14,7 @@ For each entry containing a sutra reference, it extracts:
 
 import json
 import re
+import sys
 from pathlib import Path
 from typing import List, Dict, Any
 from SutraSentenceProcessor import SutraSentenceProcessor
@@ -131,9 +132,11 @@ def extract_sutra_prayogas(json_file_path: str) -> List[Dict[str, Any]]:
     Returns:
         List of dictionaries containing extracted information
     """
-    # Regex pattern for Panini sutras: (पा.X।X।X)
-    # Matches patterns like (पा.3।3।19), (पा.1।2।70), etc.
-    sutra_pattern = r'\(पा\.\d+।\d+।\d+\)'
+    # Regex pattern for Panini sutras
+    # Matches both formats:
+    # - (पा.X।X।X) - danda-separated (raghuvansham)
+    # - (पा.X|X|X) - pipe-separated (kumarasambhavam)
+    sutra_pattern = r'\(पा\.\d+[।|]\d+[।|]\d+\)'
 
     results = []
 
@@ -168,11 +171,24 @@ def extract_sutra_prayogas(json_file_path: str) -> List[Dict[str, Any]]:
 
 def main():
     """Main function to run the extraction."""
+    # Check for command-line argument for input filename
+    if len(sys.argv) > 1:
+        input_filename = sys.argv[1]
+    else:
+        # Default to raghuvansham.json if no argument provided
+        input_filename = 'raghuvansham.json'
+
     # Input and output paths
-    input_file = Path(__file__).parent.parent.parent / 'texts' / 'In' / 'raghuvansham.json'
+    input_file = Path(__file__).parent.parent.parent / 'texts' / 'In' / input_filename
+
+    # Verify input file exists
+    if not input_file.exists():
+        print(f"Error: Input file not found: {input_file}")
+        print(f"Usage: python3 {Path(__file__).name} [input_filename.json]")
+        sys.exit(1)
 
     # Generate output filename based on input filename: input_Extract.json
-    input_basename = input_file.stem  # 'raghuvansham'
+    input_basename = input_file.stem  # e.g., 'raghuvansham' or 'kumarasambhavam'
     output_filename = f"{input_basename}_Extract.json"
     output_file = Path(__file__).parent.parent.parent / 'texts' / 'extract' / output_filename
 

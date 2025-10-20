@@ -78,11 +78,32 @@ def extract_sentences_with_sutra(text: str, sutra_pattern: str) -> List[str]:
         if not found_comma_start:
             # No comma found, look for danda before the sutra
             for i in range(sutra_start - 1, -1, -1):
-                if text[i] in '।॥' and (i == 0 or text[i-1] != ')'):
-                    # Found a danda that's not part of a sutra reference
-                    paren_check = text[max(0, i-10):i]
-                    if ')' not in paren_check or text[i-1:i+1] == ')।' or text[i-1:i+1] == ')॥':
-                        sentence_start = i + 1  # Start after the danda
+                if text[i] in '।॥':
+                    # Found a danda - need to determine if it's a sentence boundary or part of Panini sutra
+                    # Panini sutras look like: (पा.X।Y।Z) where dandas are INSIDE parentheses
+                    # Other references look like: (अ.को.X|Y|Z) । where danda is OUTSIDE
+
+                    # Check if this danda is inside a Panini sutra reference
+                    # Count open/close parens from this danda back to last complete reference
+                    text_segment = text[max(0, i-50):i+1]
+
+                    # Find the last '(' before this danda
+                    last_open_paren = text_segment.rfind('(')
+                    if last_open_paren != -1:
+                        # Check if there's a matching ')' between the '(' and this danda
+                        text_between = text_segment[last_open_paren:]
+                        if ')' in text_between:
+                            # The parentheses are closed before this danda
+                            # This is a sentence boundary (e.g., "(अ.को.2|7|12) ।")
+                            sentence_start = i + 1
+                            break
+                        else:
+                            # No closing paren yet, this danda is inside the reference (Panini sutra)
+                            # Skip this danda and keep looking
+                            continue
+                    else:
+                        # No open paren found nearby, this is a regular sentence boundary
+                        sentence_start = i + 1
                         break
 
         # Find the sentence end: look forward for danda or end of text
@@ -179,7 +200,7 @@ def main():
         input_filename = 'raghuvansham.json'
 
     # Input and output paths
-    input_file = Path(__file__).parent.parent.parent / 'texts' / 'In' / input_filename
+    input_file = Path(__file__).parent.parent / 'texts' / 'In' / input_filename
 
     # Verify input file exists
     if not input_file.exists():
@@ -190,7 +211,7 @@ def main():
     # Generate output filename based on input filename: input_Extract.json
     input_basename = input_file.stem  # e.g., 'raghuvansham' or 'kumarasambhavam'
     output_filename = f"{input_basename}_Extract.json"
-    output_file = Path(__file__).parent.parent.parent / 'texts' / 'extract' / output_filename
+    output_file = Path(__file__).parent.parent / 'texts' / 'extract' / output_filename
 
     print(f"Reading from: {input_file}")
 
@@ -217,11 +238,17 @@ def main():
     print(f"Found {len(unique_sutras)} unique Panini sutras")
 
     # Create output structure with metadata
+    # Read the original file to get the title
+    with open(input_file, 'r', encoding='utf-8') as f:
+        source_data = json.load(f)
+
     # Text name is derived from input filename (e.g., 'raghuvansham' from raghuvansham.json)
     text_name = input_basename
+    title = source_data.get('title', '')
 
     output_data = {
         "text": text_name,
+        "title": title,
         "base_link": "https://sanskritsahitya.org/",
         "comment": f"This file contains {len(unique_sutras)} unique Panini sutras referenced in the commentary",
         "data": enhanced_results

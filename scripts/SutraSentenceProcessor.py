@@ -103,6 +103,8 @@ class SutraSentenceProcessor:
         """
         Process a list of sentences from Phase 1.
 
+        If a sentence contains multiple Panini sutras, create separate entries for each.
+
         Args:
             sentences: List of raw sentences
 
@@ -112,9 +114,25 @@ class SutraSentenceProcessor:
         processed = []
 
         for sentence in sentences:
-            result = self.process_sentence(sentence)
-            if result and result['sentence']:  # Only include if we have a sentence
-                processed.append(result)
+            # Check if this sentence contains multiple Panini sutras
+            all_sutras = re.findall(self.sutra_pattern, sentence)
+
+            if len(all_sutras) > 1:
+                # Multiple sutras in one sentence - create an entry for each
+                for match in re.finditer(self.sutra_pattern, sentence):
+                    sutra_num = f"{match.group(1)}.{match.group(2)}.{match.group(3)}"
+                    # Clean the sentence (removes ALL sutra references)
+                    cleaned_text = self.clean_sentence(sentence, sentence)
+                    processed.append({
+                        "sutra": sutra_num,
+                        "word": "",
+                        "sentence": cleaned_text
+                    })
+            else:
+                # Single sutra or no sutra - use original logic
+                result = self.process_sentence(sentence)
+                if result and result['sentence']:  # Only include if we have a sentence
+                    processed.append(result)
 
         return processed
 

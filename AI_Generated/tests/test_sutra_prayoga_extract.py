@@ -11,8 +11,9 @@ import sys
 import unittest
 from pathlib import Path
 
-# Add parent directory to path to import the script
-sys.path.insert(0, str(Path(__file__).parent.parent))
+# Add scripts directory to path to import the script
+scripts_dir = Path(__file__).parent.parent.parent / 'scripts'
+sys.path.insert(0, str(scripts_dir))
 
 from SutraPrayogaExtract import (
     extract_sentences_with_sutra,
@@ -238,7 +239,7 @@ class TestIntegration(unittest.TestCase):
 
     def setUp(self):
         """Set up paths for integration testing."""
-        self.input_file = Path(__file__).parent.parent.parent.parent / 'texts' / 'In' / 'raghuvansham.json'
+        self.input_file = Path(__file__).parent.parent.parent / 'texts' / 'In' / 'raghuvansham.json'
 
     def test_input_file_exists(self):
         """Test that the input file exists."""

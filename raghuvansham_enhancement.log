@@ -1,0 +1,1956 @@
+/opt/homebrew/lib/python3.14/site-packages/vertexai/generative_models/_generative_models.py:433: UserWarning: This feature is deprecated as of June 24, 2025 and will be removed on June 24, 2026. For details, see https://cloud.google.com/vertex-ai/generative-ai/docs/deprecations/genai-vertexai-sdk.
+  warning_logs.show_deprecation_warning()
+================================================================================
+Sutra Enhancement Tool (Gemini via Vertex AI)
+================================================================================
+Extract file: raghuvansham_Extract.json
+================================================================================
+
+Using Gemini via Vertex AI
+Project: anetorg-sinaraya-kartik
+Location: us-central1
+Model: gemini-2.0-flash-exp
+Delay between calls: 2s
+Loading source commentary: /Users/adarshtadwai/Documents/GitHub/SutraPrayogaInKayvas/texts/In/raghuvansham.json
+Loaded commentary for 1569 verses
+
+Loading extract file: /Users/adarshtadwai/Documents/GitHub/SutraPrayogaInKayvas/texts/extract/raghuvansham_Extract.json
+Found 498 verses with 698 sutra references
+Already filled: 48/698 sutras (6.9%)
+Will save progress every 10 verses
+
+Processing...
+
+1/498: Verse 1.1
+   Sutra 1.2.70... ⏭️  (already filled)
+   Sutra 4.1.92... ⏭️  (already filled)
+   Sutra 4.1.15... ⏭️  (already filled)
+2/498: Verse 1.2
+   Sutra 3.3.57... ⏭️  (already filled)
+   Sutra 3.3.19... ⏭️  (already filled)
+   Sutra 3.3.126... ⏭️  (already filled)
+3/498: Verse 1.3
+   Sutra 3.1.124... ⏭️  (already filled)
+4/498: Verse 1.5
+   Sutra 2.1.13... ⏭️  (already filled)
+5/498: Verse 1.6
+   Sutra 2.1.7... ⏭️  (already filled)
+6/498: Verse 1.7
+   Sutra 2.1.36... ⏭️  (already filled)
+7/498: Verse 1.8
+   Sutra 5.1.129... ⏭️  (already filled)
+   Sutra 5.1.133... ⏭️  (already filled)
+   Sutra 3.2.178... ⏭️  (already filled)
+8/498: Verse 1.12
+   Sutra 5.3.57... ⏭️  (already filled)
+9/498: Verse 1.13
+   Sutra 5.4.151... ⏭️  (already filled)
+10/498: Verse 1.17
+   Sutra 5.2.37... ⏭️  (already filled)
+
+💾 Auto-saving progress at verse 10/498...
+✅ Progress saved!
+
+11/498: Verse 1.19
+   Processing sutra 3.3.118...WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1762417945.507583 2291811 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+ ✓ परिच्छदस्तस्य
+   Sutra 6.4.96... ⏭️  (already filled)
+12/498: Verse 1.20
+   Sutra 4.3.23... ⏭️  (already filled)
+13/498: Verse 1.21
+   Sutra 3.2.140... ⏭️  (already filled)
+14/498: Verse 1.23
+   Sutra 7.2.101... ⏭️  (already filled)
+15/498: Verse 1.24
+   Sutra 3.2.99... ⏭️  (already filled)
+16/498: Verse 1.30
+   Sutra 3.2.101... ⏭️  (already filled)
+17/498: Verse 1.31
+   Sutra 3.2.97... ⏭️  (already filled)
+18/498: Verse 1.35
+   Sutra 3.1.9... ⏭️  (already filled)
+   Sutra 3.3.102... ⏭️  (already filled)
+19/498: Verse 1.36
+   Processing sutra 4.3.17...⚠️  Rate limit hit for sutra 4.3.17, waiting 15s...
+❌ Error for sutra 4.3.17: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+20/498: Verse 1.37
+   Sutra 3.3.175... ⏭️  (already filled)
+   Sutra 6.4.74... ⏭️  (already filled)
+
+💾 Auto-saving progress at verse 20/498...
+✅ Progress saved!
+
+21/498: Verse 1.38
+   Sutra 3.1.135... ⏭️  (already filled)
+22/498: Verse 1.40
+   Sutra 1.2.67... ⏭️  (already filled)
+23/498: Verse 1.44
+   Processing sutra 3.2.103... ✓ यज्वनाम्
+   Processing sutra 5.4.25...⚠️  Rate limit hit for sutra 5.4.25, waiting 15s...
+ ✓ अर्ध्यानुपदमाशिषः
+24/498: Verse 1.45
+   Sutra 2.2.23... ⏭️  (already filled)
+25/498: Verse 1.46
+   Sutra 3.3.106... ⏭️  (already filled)
+26/498: Verse 1.48
+   Sutra 5.4.91... ⏭️  (already filled)
+27/498: Verse 1.49
+   Sutra 3.2.11... ⏭️  (already filled)
+28/498: Verse 1.54
+   Sutra 4.4.77... ⏭️  (already filled)
+   Sutra 6.4.92... ⏭️  (already filled)
+29/498: Verse 1.55
+   Sutra 4.4.104... ⏭️  (already filled)
+   Processing sutra 3.2.133...⚠️  Rate limit hit for sutra 3.2.133, waiting 15s...
+ ✓ अर्हते
+30/498: Verse 1.56
+   Processing sutra 4.3.23... ✓ सायंतनस्य
+
+💾 Auto-saving progress at verse 30/498...
+✅ Progress saved!
+
+31/498: Verse 1.58
+   Sutra 5.4.26... ⏭️  (already filled)
+32/498: Verse 1.59
+   Sutra 2.3.41... ⏭️  (already filled)
+   Sutra 4.4.92... ⏭️  (already filled)
+33/498: Verse 1.60
+   Sutra 4.3.74... ⏭️  (already filled)
+   Sutra 4.1.15... ⏭️  (already filled)
+34/498: Verse 1.61
+   Sutra 3.2.89... ⏭️  (already filled)
+35/498: Verse 1.62
+   Sutra 3.3.51... ⏭️  (already filled)
+36/498: Verse 1.63
+   Sutra 5.4.77... ⏭️  (already filled)
+   Sutra 5.4.78... ⏭️  (already filled)
+37/498: Verse 1.65
+   Processing sutra 3.2.61...⚠️  Rate limit hit for sutra 3.2.61, waiting 15s...
+ ✓ रत्नसूरपि
+38/498: Verse 1.66
+   Sutra 5.3.7... ⏭️  (already filled)
+39/498: Verse 1.67
+   Sutra 2.3.29... ⏭️  (already filled)
+40/498: Verse 1.68
+   Sutra 3.3.98... ⏭️  (already filled)
+
+💾 Auto-saving progress at verse 40/498...
+✅ Progress saved!
+
+41/498: Verse 1.71
+   Processing sutra 3.2.35... ✓ अरुन्तुदमिवालानम्
+   Processing sutra 6.3.67... ✓ अरुन्तुदमिवालानम्
+42/498: Verse 1.74
+   Processing sutra 1.4.52... ✓ एनम्
+43/498: Verse 1.80
+   Processing sutra 1.4.46... ✓ पातालम्
+44/498: Verse 1.81
+   Processing sutra 5.4.153...⚠️  Rate limit hit for sutra 5.4.153, waiting 15s...
+ ✓ सपत्नीकः
+   Processing sutra 3.2.70...⚠️  Rate limit hit for sutra 3.2.70, waiting 15s...
+❌ Error for sutra 3.2.70: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+45/498: Verse 1.82
+   Processing sutra 3.3.135...⚠️  Rate limit hit for sutra 3.3.135, waiting 15s...
+❌ Error for sutra 3.3.135: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+46/498: Verse 1.83
+   Processing sutra 8.2.45...⚠️  Rate limit hit for sutra 8.2.45, waiting 15s...
+ ✓ आभुग्नं
+47/498: Verse 1.84
+   Processing sutra 6.3.107... ✓ कवं
+   Processing sutra 2.3.35...⚠️  Rate limit hit for sutra 2.3.35, waiting 15s...
+ ✓ कुण्डोध्नी
+48/498: Verse 1.85
+   Processing sutra 2.3.35...⚠️  Rate limit hit for sutra 2.3.35, waiting 15s...
+ ✓ अन्तिकात्
+49/498: Verse 1.87
+   Processing sutra 4.1.45... ✓ कल्याणी
+50/498: Verse 1.89
+   Processing sutra 1.3.22... ✓ प्रतिष्ठेथाः
+
+💾 Auto-saving progress at verse 50/498...
+✅ Progress saved!
+
+51/498: Verse 1.91
+   Processing sutra 2.1.13... ✓ आ
+   Processing sutra 2.1.6... ✓ अविघ्नमस्तु
+   Processing sutra 6.4.67...⚠️  Rate limit hit for sutra 6.4.67, waiting 15s...
+❌ Error for sutra 6.4.67: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+52/498: Verse 1.94
+   Processing sutra 3.1.136...⚠️  Rate limit hit for sutra 3.1.136, waiting 15s...
+❌ Error for sutra 3.1.136: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+   Processing sutra 3.3.19...⚠️  Rate limit hit for sutra 3.3.19, waiting 15s...
+ ✓ संविधाम्
+53/498: Verse 1.95
+   Processing sutra 1.4.46...⚠️  Rate limit hit for sutra 1.4.46, waiting 15s...
+❌ Error for sutra 1.4.46: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+54/498: Verse 2.1
+   Processing sutra 5.2.127...⚠️  Rate limit hit for sutra 5.2.127, waiting 15s...
+❌ Error for sutra 5.2.127: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+   Processing sutra 2.3.14...⚠️  Rate limit hit for sutra 2.3.14, waiting 15s...
+❌ Error for sutra 2.3.14: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+55/498: Verse 2.2
+   Processing sutra 5.2.97... ✓ पांसुलानां
+56/498: Verse 2.3
+   Processing sutra 3.2.158... ✓ सुरभिः
+   Processing sutra 2.2.18... ✓ पयोधरीभूत
+   Processing sutra 2.2.24... ✓ चतुःसमुद्रां
+57/498: Verse 2.6
+   Processing sutra 3.2.108... ✓ स्थितः
+   Processing sutra 4.1.6...⚠️  Rate limit hit for sutra 4.1.6, waiting 15s...
+❌ Error for sutra 4.1.6: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+58/498: Verse 2.8
+   Processing sutra 2.3.21... ✓ कैशैः
+   Processing sutra 5.4.132...⚠️  Rate limit hit for sutra 5.4.132, waiting 15s...
+❌ Error for sutra 5.4.132: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+59/498: Verse 2.10
+   Processing sutra 3.1.136...⚠️  Rate limit hit for sutra 3.1.136, waiting 15s...
+ ✓ मरुत्सखाभं
+60/498: Verse 2.14
+   Processing sutra 2.3.41... ✓ सत्त्वेषु
+
+💾 Auto-saving progress at verse 60/498...
+✅ Progress saved!
+
+61/498: Verse 2.16
+   Processing sutra 1.4.52... ✓ मतेन
+   Processing sutra 2.3.67... ✓ मतेन
+62/498: Verse 2.17
+   Processing sutra 3.1.13... ✓ श्यामायमानानि
+   Processing sutra 1.3.90... ✓ श्यामायमानानि
+   Processing sutra 4.2.88...⚠️  Rate limit hit for sutra 4.2.88, waiting 15s...
+❌ Error for sutra 4.2.88: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+63/498: Verse 2.18
+   Processing sutra 5.4.74...⚠️  Rate limit hit for sutra 5.4.74, waiting 15s...
+ ✓ तपोवनावृत्तिपथं
+64/498: Verse 2.20
+   Processing sutra 5.1.42...⚠️  Rate limit hit for sutra 5.1.42, waiting 15s...
+ ✓ पार्थिवेन
+65/498: Verse 2.23
+   Processing sutra 3.2.135...⚠️  Rate limit hit for sutra 3.2.135, waiting 15s...
+❌ Error for sutra 3.2.135: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+66/498: Verse 2.24
+   Processing sutra 2.3.8...⚠️  Rate limit hit for sutra 2.3.8, waiting 15s...
+❌ Error for sutra 2.3.8: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+67/498: Verse 2.26
+   Processing sutra 5.3.22... ✓ अन्येद्यु
+   Processing sutra 1.3.57... ✓ जिज्ञासमाना
+68/498: Verse 2.29
+   Processing sutra 3.2.102... ✓ तस्थिवांसं
+   Processing sutra 5.2.34... ✓ अधित्यकायामिव
+   Processing sutra 7.4.88...⚠️  Rate limit hit for sutra 7.4.88, waiting 15s...
+❌ Error for sutra 7.4.88: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+69/498: Verse 2.30
+   Processing sutra 4.4.98...⚠️  Rate limit hit for sutra 4.4.98, waiting 15s...
+ ✓ शरण्यः
+   Processing sutra 5.1.66...⚠️  Rate limit hit for sutra 5.1.66, waiting 15s...
+❌ Error for sutra 5.1.66: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+70/498: Verse 2.33
+   Processing sutra 3.1.119...⚠️  Rate limit hit for sutra 3.1.119, waiting 15s...
+ ✓ पक्ष्यम्
+   Processing sutra 6.1.57...⚠️  Rate limit hit for sutra 6.1.57, waiting 15s...
+❌ Error for sutra 6.1.57: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+   Processing sutra 1.3.68... ✓ विस्माययन्
+
+💾 Auto-saving progress at verse 70/498...
+✅ Progress saved!
+
+71/498: Verse 2.37
+   Processing sutra 3.2.61...⚠️  Rate limit hit for sutra 3.2.61, waiting 15s...
+❌ Error for sutra 3.2.61: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+   Processing sutra 3.1.27...⚠️  Rate limit hit for sutra 3.1.27, waiting 15s...
+ ✓ सेनान्यमालीढमिवासुरास्त्त्रैः
+72/498: Verse 2.39
+   Processing sutra 2.3.16... ✓ तृप्त्यै
+73/498: Verse 2.43
+   Processing sutra 3.4.83... ✓ वेद
+74/498: Verse 2.47
+   Processing sutra 2.3.36...⚠️  Rate limit hit for sutra 2.3.36, waiting 15s...
+ ✓ हेतोर्
+75/498: Verse 2.49
+   Processing sutra 1.4.25... ✓ गुरोः
+   Processing sutra 5.4.131... ✓ घटोध्नीः
+   Processing sutra 4.1.25...⚠️  Rate limit hit for sutra 4.1.25, waiting 15s...
+❌ Error for sutra 4.1.25: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+76/498: Verse 2.50
+   Processing sutra 5.2.114... ✓ ऊर्जस्वलमात्मदेहम्
+77/498: Verse 2.52
+   Processing sutra 5.4.113... ✓ कातराक्ष्या
+   Processing sutra 4.1.41...⚠️  Rate limit hit for sutra 4.1.41, waiting 15s...
+ ✓ कातराक्ष्या
+   Processing sutra 4.1.41... ✓ सुतरां
+   Processing sutra 5.4.11...⚠️  Rate limit hit for sutra 5.4.11, waiting 15s...
+❌ Error for sutra 5.4.11: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+   Processing sutra 1.1.38...⚠️  Rate limit hit for sutra 1.1.38, waiting 15s...
+ ✓ सुतरां
+78/498: Verse 2.53
+   Processing sutra 3.2.4... ✓ क्षत्त्रस्य
+   Processing sutra 5.2.114... ✓ मलीमसैर्वा
+79/498: Verse 2.54
+   Processing sutra 2.3.42... ✓ सुरभेः
+   Processing sutra 2.3.36...⚠️  Rate limit hit for sutra 2.3.36, waiting 15s...
+ ✓ अस्याम्
+80/498: Verse 2.55
+   Processing sutra 3.3.56...⚠️  Rate limit hit for sutra 3.3.56, waiting 15s...
+❌ Error for sutra 3.3.56: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+   Processing sutra 4.4.92...⚠️  Rate limit hit for sutra 4.4.92, waiting 15s...
+ ✓ न्याय्या
+
+💾 Auto-saving progress at verse 80/498...
+✅ Progress saved!
+
+81/498: Verse 2.56
+   Processing sutra 1.4.108... ✓ भवान्
+82/498: Verse 2.60
+   Processing sutra 5.3.31...⚠️  Rate limit hit for sutra 5.3.31, waiting 15s...
+❌ Error for sutra 5.3.31: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+83/498: Verse 2.61
+   Processing sutra 3.1.10...⚠️  Rate limit hit for sutra 3.1.10, waiting 15s...
+❌ Error for sutra 3.1.10: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+84/498: Verse 2.62
+   Processing sutra 3.1.167...⚠️  Rate limit hit for sutra 3.1.167, waiting 15s...
+ ✓ प्रहर्तुं
+85/498: Verse 2.63
+   Processing sutra 3.2.70... ✓ कामदुघां
+86/498: Verse 2.65
+   Processing sutra 3.2.1...⚠️  Rate limit hit for sutra 3.2.1, waiting 15s...
+ ✓ संतान
+87/498: Verse 2.66
+   Processing sutra 4.3.55... ✓ ऊधस्यमिच्छामि
+88/498: Verse 2.69
+   Processing sutra 5.2.98...⚠️  Rate limit hit for sutra 5.2.98, waiting 15s...
+❌ Error for sutra 5.2.98: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+89/498: Verse 2.70
+   Processing sutra 4.3.11...⚠️  Rate limit hit for sutra 4.3.11, waiting 15s...
+❌ Error for sutra 4.3.11: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+90/498: Verse 2.71
+   Processing sutra 3.2.12... ✓ हुताशम्
+   Processing sutra 2.1.17... ✓ प्रदक्षिणम्
+
+💾 Auto-saving progress at verse 90/498...
+✅ Progress saved!
+
+91/498: Verse 2.74
+   Processing sutra 3.2.41...⚠️  Rate limit hit for sutra 3.2.41, waiting 15s...
+❌ Error for sutra 3.2.41: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+   Processing sutra 6.3.69...⚠️  Rate limit hit for sutra 6.3.69, waiting 15s...
+❌ Error for sutra 6.3.69: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+92/498: Verse 2.75
+   Processing sutra 3.1.136...⚠️  Rate limit hit for sutra 3.1.136, waiting 15s...
+❌ Error for sutra 3.1.136: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+   Processing sutra 6.4.19...⚠️  Rate limit hit for sutra 6.4.19, waiting 15s...
+ ✓ निष्ठ्यूत
+93/498: Verse 3.2
+   Processing sutra 6.3.35...⚠️  Rate limit hit for sutra 6.3.35, waiting 15s...
+❌ Error for sutra 6.3.35: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+94/498: Verse 3.4
+   Processing sutra 1.3.36...⚠️  Rate limit hit for sutra 1.3.36, waiting 15s...
+❌ Error for sutra 1.3.36: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+95/498: Verse 3.5
+   Processing sutra 4.1.170... ✓ मागधी
+   Processing sutra 3.2.118...⚠️  Rate limit hit for sutra 3.2.118, waiting 15s...
+❌ Error for sutra 3.2.118: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+96/498: Verse 3.12
+   Processing sutra 3.3.99...⚠️  Rate limit hit for sutra 3.3.99, waiting 15s...
+❌ Error for sutra 3.3.99: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+   Processing sutra 5.2.36... ✓ अभ्रिताम्
+97/498: Verse 3.14
+   Processing sutra 2.3.5...⚠️  Rate limit hit for sutra 2.3.5, waiting 15s...
+ ✓ दिशः
+98/498: Verse 3.21
+   Processing sutra 3.3.172... ✓ यायात्
+99/498: Verse 3.22
+   Processing sutra 8.1.4...⚠️  Rate limit hit for sutra 8.1.4, waiting 15s...
+❌ Error for sutra 8.1.4: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+100/498: Verse 3.24
+   Processing sutra 1.2.67... ✓ रथाङ्गनाम्नोरिव
+
+💾 Auto-saving progress at verse 100/498...
+✅ Progress saved!
+
+101/498: Verse 3.30
+   Processing sutra 2.1.41... ✓ चतुरर्णवोपमाः
+102/498: Verse 3.32
+   Processing sutra 5.4.77...⚠️  Rate limit hit for sutra 5.4.77, waiting 15s...
+ ✓ महोक्षतां
+103/498: Verse 3.34
+   Processing sutra 5.2.98...⚠️  Rate limit hit for sutra 5.2.98, waiting 15s...
+ ✓ अंसलः
+104/498: Verse 3.35
+   Processing sutra 4.1.44... ✓ धृतां
+   Processing sutra 3.3.18... ✓ लघयिष्यता
+   Processing sutra 3.2.62... ✓ शब्दभाक्
+105/498: Verse 3.36
+   Processing sutra 6.1.146... ✓ आस्पदं
+106/498: Verse 3.39
+   Processing sutra 2.3.14...⚠️  Rate limit hit for sutra 2.3.14, waiting 15s...
+❌ Error for sutra 2.3.14: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+107/498: Verse 3.44
+   Processing sutra 2.3.15...⚠️  Rate limit hit for sutra 2.3.15, waiting 15s...
+❌ Error for sutra 2.3.15: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+108/498: Verse 3.45
+   Processing sutra 2.1.51...⚠️  Rate limit hit for sutra 2.1.51, waiting 15s...
+ ✓ त्रिलोकनाथेन
+109/498: Verse 3.48
+   Processing sutra 3.4.84... ✓ आत्थ
+110/498: Verse 3.49
+   Processing sutra 2.2.50...⚠️  Rate limit hit for sutra 2.2.50, waiting 15s...
+ ✓ पुरुषोत्तमः
+   Processing sutra 3.4.83... ✓ विदुर्मां
+
+💾 Auto-saving progress at verse 110/498...
+✅ Progress saved!
+
+111/498: Verse 3.50
+   Processing sutra 6.4.74...⚠️  Rate limit hit for sutra 6.4.74, waiting 15s...
+❌ Error for sutra 6.4.74: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+112/498: Verse 3.51
+   Processing sutra 5.2.88...⚠️  Rate limit hit for sutra 5.2.88, waiting 15s...
+ ✓ कृती
+113/498: Verse 3.56
+   Processing sutra 1.4.37... ✓ तस्मै
+114/498: Verse 3.62
+   Processing sutra 3.2.87... ✓ वृत्रहा
+115/498: Verse 3.63
+   Processing sutra 2.3.29... ✓ तुरंगमात्
+116/498: Verse 3.64
+   Processing sutra 3.2.38... ✓ प्रियंवदः
+   Processing sutra 6.3.67...⚠️  Rate limit hit for sutra 6.3.67, waiting 15s...
+❌ Error for sutra 6.3.67: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+117/498: Verse 3.67
+   Processing sutra 3.2.108...⚠️  Rate limit hit for sutra 3.2.108, waiting 15s...
+ ✓ प्रतिशुश्रुवान्रघोर्यथागतं
+118/498: Verse 4.4
+   Processing sutra 3.2.79... ✓ द्विरदगामिना
+   Processing sutra 3.2.78...⚠️  Rate limit hit for sutra 3.2.78, waiting 15s...
+❌ Error for sutra 3.2.78: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+   Processing sutra 4.3.79... ✓ पित्र्यम्
+119/498: Verse 4.6
+   Processing sutra 8.1.4...⚠️  Rate limit hit for sutra 8.1.4, waiting 15s...
+❌ Error for sutra 8.1.4: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+   Processing sutra 4.4.92...⚠️  Rate limit hit for sutra 4.4.92, waiting 15s...
+ ✓ अर्थ्याभि
+120/498: Verse 4.16
+   Processing sutra 4.3.18... ✓ वार्षिकं
+   Processing sutra 5.4.38... ✓ जैत्रं
+
+💾 Auto-saving progress at verse 120/498...
+✅ Progress saved!
+
+121/498: Verse 4.19
+   Processing sutra 4.2.87... ✓ कुमुद्वत्सु
+122/498: Verse 4.20
+   Processing sutra 2.4.22... ✓ इक्षुच्छाय
+   Processing sutra 3.2.1...⚠️  Rate limit hit for sutra 3.2.1, waiting 15s...
+❌ Error for sutra 3.2.1: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+   Processing sutra 4.1.15...⚠️  Rate limit hit for sutra 4.1.15, waiting 15s...
+❌ Error for sutra 4.1.15: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+123/498: Verse 4.22
+   Processing sutra 3.2.31...⚠️  Rate limit hit for sutra 3.2.31, waiting 15s...
+ ✓ कूलमुद्रुजाः
+   Processing sutra 6.3.67... ✓ ककुद्मन्तः
+   Processing sutra 5.4.77...⚠️  Rate limit hit for sutra 5.4.77, waiting 15s...
+❌ Error for sutra 5.4.77: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+124/498: Verse 4.23
+   Processing sutra 5.4.137...⚠️  Rate limit hit for sutra 5.4.137, waiting 15s...
+❌ Error for sutra 5.4.137: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+125/498: Verse 4.24
+   Processing sutra 8.4.43... ✓ प्रथमं
+126/498: Verse 4.31
+   Processing sutra 4.4.91...⚠️  Rate limit hit for sutra 4.4.91, waiting 15s...
+❌ Error for sutra 4.4.91: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+127/498: Verse 4.34
+   Processing sutra 3.2.147...⚠️  Rate limit hit for sutra 3.2.147, waiting 15s...
+ ✓ जयी
+   Processing sutra 4.2.98...⚠️  Rate limit hit for sutra 4.2.98, waiting 15s...
+❌ Error for sutra 4.2.98: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+128/498: Verse 4.35
+   Processing sutra 1.4.25...⚠️  Rate limit hit for sutra 1.4.25, waiting 15s...
+❌ Error for sutra 1.4.25: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+129/498: Verse 4.40
+   Processing sutra 4.1.170... ✓ कालिङ्गस्तमस्त्त्रैर्गजसाधनः
+130/498: Verse 4.45
+   Processing sutra 5.4.135... ✓ सुगन्धिना
+   Processing sutra 4.4.45... ✓ सैन्यपरिभोगेण
+
+💾 Auto-saving progress at verse 130/498...
+✅ Progress saved!
+
+131/498: Verse 4.46
+   Processing sutra 5.4.34... ✓ उपत्यकाः
+   Processing sutra 1.4.48...⚠️  Rate limit hit for sutra 1.4.48, waiting 15s...
+❌ Error for sutra 1.4.48: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+132/498: Verse 4.47
+   Processing sutra 3.2.136...⚠️  Rate limit hit for sutra 3.2.136, waiting 15s...
+❌ Error for sutra 3.2.136: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+133/498: Verse 4.48
+   Processing sutra 4.3.57...⚠️  Rate limit hit for sutra 4.3.57, waiting 15s...
+ ✓ ग्रैवं
+   Processing sutra 1.3.91... ✓ नास्रसत्
+   Processing sutra 6.4.24... ✓ करिणां
+134/498: Verse 4.49
+   Processing sutra 1.3.90...⚠️  Rate limit hit for sutra 1.3.90, waiting 15s...
+❌ Error for sutra 1.3.90: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+135/498: Verse 4.51
+   Processing sutra 8.2.13...⚠️  Rate limit hit for sutra 8.2.13, waiting 15s...
+❌ Error for sutra 8.2.13: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+   Processing sutra 2.1.39...⚠️  Rate limit hit for sutra 2.1.39, waiting 15s...
+ ✓ दूरौ
+   Processing sutra 6.3.3... ✓ दूरान्
+136/498: Verse 4.52
+   Processing sutra 8.2.13... ✓ उदन्वता
+   Processing sutra 2.1.39... ✓ दूरान्मुक्तमुदन्वता
+   Processing sutra 6.3.3...⚠️  Rate limit hit for sutra 6.3.3, waiting 15s...
+ ✓ दूरान्मुक्तमुदन्वता
+137/498: Verse 4.57
+   Processing sutra 5.4.135... ✓ सुगन्धिषु
+138/498: Verse 4.61
+   Processing sutra 4.1.63...⚠️  Rate limit hit for sutra 4.1.63, waiting 15s...
+❌ Error for sutra 4.1.63: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+139/498: Verse 4.62
+   Processing sutra 4.2.98...⚠️  Rate limit hit for sutra 4.2.98, waiting 15s...
+ ✓ पाश्चात्त्यैरश्वसाधनैः
+140/498: Verse 4.63
+   Processing sutra 5.2.97... ✓ श्मश्रुलै
+   Processing sutra 4.3.119... ✓ क्षौद्र
+
+💾 Auto-saving progress at verse 140/498...
+✅ Progress saved!
+
+141/498: Verse 4.65
+   Processing sutra 1.3.37...⚠️  Rate limit hit for sutra 1.3.37, waiting 15s...
+❌ Error for sutra 1.3.37: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+   Processing sutra 3.2.118...⚠️  Rate limit hit for sutra 3.2.118, waiting 15s...
+❌ Error for sutra 3.2.118: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+142/498: Verse 4.69
+   Processing sutra 6.1.51...⚠️  Rate limit hit for sutra 6.1.51, waiting 15s...
+❌ Error for sutra 6.1.51: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+143/498: Verse 4.72
+   Processing sutra 3.2.15... ✓ गुहाशयानां
+144/498: Verse 4.74
+   Processing sutra 1.4.46... ✓ अध्यास्य
+145/498: Verse 4.75
+   Processing sutra 4.3.57... ✓ ग्रीवासु
+146/498: Verse 4.77
+   Processing sutra 4.2.143... ✓ पर्वतीयै
+147/498: Verse 4.78
+   Processing sutra 1.4.52...⚠️  Rate limit hit for sutra 1.4.52, waiting 15s...
+❌ Error for sutra 1.4.52: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+148/498: Verse 4.85
+   Processing sutra 3.2.139...⚠️  Rate limit hit for sutra 3.2.139, waiting 15s...
+ ✓ जिष्णु
+149/498: Verse 4.87
+   Processing sutra 5.4.91... ✓ सखः
+   Processing sutra 4.1.137... ✓ राजन्यान्
+150/498: Verse 5.1
+   Processing sutra 4.1.114...⚠️  Rate limit hit for sutra 4.1.114, waiting 15s...
+❌ Error for sutra 4.1.114: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+   Processing sutra 5.2.135...⚠️  Rate limit hit for sutra 5.2.135, waiting 15s...
+❌ Error for sutra 5.2.135: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+
+💾 Auto-saving progress at verse 150/498...
+✅ Progress saved!
+
+151/498: Verse 5.2
+   Processing sutra 4.4.104...⚠️  Rate limit hit for sutra 4.4.104, waiting 15s...
+❌ Error for sutra 4.4.104: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+   Processing sutra 6.4.174... ✓ हिरण्मयम्
+   Processing sutra 5.4.25... ✓ अर्ध्यम्
+152/498: Verse 5.3
+   Processing sutra 8.3.93...⚠️  Rate limit hit for sutra 8.3.93, waiting 15s...
+❌ Error for sutra 8.3.93: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+   Processing sutra 5.1.117... ✓ विधिवत्
+153/498: Verse 5.4
+   Processing sutra 3.2.89...⚠️  Rate limit hit for sutra 3.2.89, waiting 15s...
+❌ Error for sutra 3.2.89: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+154/498: Verse 5.8
+   Processing sutra 5.3.50...⚠️  Rate limit hit for sutra 5.3.50, waiting 15s...
+ ✓ षष्ठाङ्कितसैकतानि
+   Processing sutra 2.2.11... ✓ पूरणगुण
+   Processing sutra 5.2.104... ✓ सैकतानि
+155/498: Verse 5.9
+   Processing sutra 4.3.74...⚠️  Rate limit hit for sutra 4.3.74, waiting 15s...
+❌ Error for sutra 4.3.74: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+   Processing sutra 5.1.69...⚠️  Rate limit hit for sutra 5.1.69, waiting 15s...
+❌ Error for sutra 5.1.69: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+156/498: Verse 5.10
+   Processing sutra 2.3.14... ✓ गृहाय
+   Processing sutra 3.3.164...⚠️  Rate limit hit for sutra 3.3.164, waiting 15s...
+ ✓ संक्रमितुं
+157/498: Verse 5.11
+   Processing sutra 3.2.113...⚠️  Rate limit hit for sutra 3.2.113, waiting 15s...
+ ✓ अर्हतो
+   Processing sutra 2.3.44... ✓ नियोगक्रिययोत्सुकं
+158/498: Verse 5.13
+   Processing sutra 2.3.16... ✓ दृष्टेः
+159/498: Verse 5.15
+   Processing sutra 4.2.129... ✓ आरण्यकोपात्तफलप्रसूतिः
+160/498: Verse 5.17
+   Processing sutra 2.3.16...⚠️  Rate limit hit for sutra 2.3.16, waiting 15s...
+❌ Error for sutra 2.3.16: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+
+💾 Auto-saving progress at verse 160/498...
+✅ Progress saved!
+
+161/498: Verse 5.19
+   Processing sutra 5.2.134...⚠️  Rate limit hit for sutra 5.2.134, waiting 15s...
+ ✓ वर्णी
+162/498: Verse 5.25
+   Processing sutra 2.2.25... ✓ द्वित्राण्यहानि
+   Processing sutra 5.4.73... ✓ द्वित्राण्यहानि
+   Processing sutra 3.3.4... ✓ यते
+163/498: Verse 5.28
+   Processing sutra 1.4.46... ✓ रथम्
+164/498: Verse 5.29
+   Processing sutra 6.4.174... ✓ हिरण्मयीं
+165/498: Verse 5.30
+   Processing sutra 3.2.161...⚠️  Rate limit hit for sutra 3.2.161, waiting 15s...
+❌ Error for sutra 3.2.161: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+166/498: Verse 5.31
+   Processing sutra 3.2.6...⚠️  Rate limit hit for sutra 3.2.6, waiting 15s...
+❌ Error for sutra 3.2.6: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+167/498: Verse 5.32
+   Processing sutra 3.3.132... ✓ संप्रस्थितो
+168/498: Verse 5.33
+   Processing sutra 3.2.61...⚠️  Rate limit hit for sutra 3.2.61, waiting 15s...
+❌ Error for sutra 3.2.61: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+169/498: Verse 5.36
+   Processing sutra 4.3.120... ✓ ब्राह्मे
+   Processing sutra 5.6.67... ✓ कुमारकल्पं
+170/498: Verse 5.37
+   Processing sutra 7.1.16...⚠️  Rate limit hit for sutra 7.1.16, waiting 15s...
+❌ Error for sutra 7.1.16: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+
+💾 Auto-saving progress at verse 170/498...
+✅ Progress saved!
+
+171/498: Verse 5.40
+   Processing sutra 3.3.117...⚠️  Rate limit hit for sutra 3.3.117, waiting 15s...
+❌ Error for sutra 3.3.117: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+172/498: Verse 5.41
+   Processing sutra 1.1.29...⚠️  Rate limit hit for sutra 1.1.29, waiting 15s...
+ ✓ वन्येतरा
+   Processing sutra 5.3.67... ✓ कल्पाः
+173/498: Verse 5.43
+   Processing sutra 5.3.31...⚠️  Rate limit hit for sutra 5.3.31, waiting 15s...
+❌ Error for sutra 5.3.31: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+   Processing sutra 2.1.66...⚠️  Rate limit hit for sutra 2.1.66, waiting 15s...
+ ✓ गण्डभित्तिर्
+174/498: Verse 5.52
+   Processing sutra 5.2.124...⚠️  Rate limit hit for sutra 5.2.124, waiting 15s...
+❌ Error for sutra 5.2.124: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+175/498: Verse 5.53
+   Processing sutra 3.1.79... ✓ तनूजं
+   Processing sutra 3.2.38...⚠️  Rate limit hit for sutra 3.2.38, waiting 15s...
+❌ Error for sutra 3.2.38: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+176/498: Verse 5.60
+   Processing sutra 5.1.126...⚠️  Rate limit hit for sutra 5.1.126, waiting 15s...
+❌ Error for sutra 5.1.126: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+177/498: Verse 5.63
+   Processing sutra 1.4.48...⚠️  Rate limit hit for sutra 1.4.48, waiting 15s...
+ ✓ दशाम्
+178/498: Verse 5.67
+   Processing sutra 2.3.44... ✓ पर्युत्सुकत्वम
+179/498: Verse 5.69
+   Processing sutra 7.4.55... ✓ ईप्सुरिव
+   Processing sutra 6.3.14... ✓ सरसिजैः
+180/498: Verse 5.71
+   Processing sutra 1.3.40...⚠️  Rate limit hit for sutra 1.3.40, waiting 15s...
+❌ Error for sutra 1.3.40: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+
+💾 Auto-saving progress at verse 180/498...
+✅ Progress saved!
+
+181/498: Verse 5.72
+   Processing sutra 3.2.13... ✓ स्तम्बेरमा
+   Processing sutra 6.3.14...⚠️  Rate limit hit for sutra 6.3.14, waiting 15s...
+ ✓ स्तम्बेरमा
+182/498: Verse 5.75
+   Processing sutra 3.1.36... ✓ उज्झांचकार
+   Processing sutra 5.2.104... ✓ गाङ्गं
+183/498: Verse 5.76
+   Processing sutra 2.4.45... ✓ अगात्
+184/498: Verse 6.1
+   Processing sutra 4.4.8... ✓ चरताम्
+185/498: Verse 6.5
+   Processing sutra 1.3.91... ✓ व्यरुचत्
+186/498: Verse 6.10
+   Processing sutra 3.2.46... ✓ पतिंवरा
+187/498: Verse 6.14
+   Processing sutra 3.2.143... ✓ विलासी
+188/498: Verse 6.18
+   Processing sutra 4.3.62...⚠️  Rate limit hit for sutra 4.3.62, waiting 15s...
+❌ Error for sutra 4.3.62: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+189/498: Verse 6.20
+   Processing sutra 4.1.15...⚠️  Rate limit hit for sutra 4.1.15, waiting 15s...
+❌ Error for sutra 4.1.15: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+   Processing sutra 5.1.115... ✓ पुंवत्
+190/498: Verse 6.21
+   Processing sutra 3.2.39... ✓ परंतपः
+   Processing sutra 6.4.94...⚠️  Rate limit hit for sutra 6.4.94, waiting 15s...
+ ✓ परंतपो
+   Processing sutra 6.3.67... ✓ परंतपो
+
+💾 Auto-saving progress at verse 190/498...
+✅ Progress saved!
+
+191/498: Verse 6.22
+   Processing sutra 8.2.14... ✓ राजन्वतीम्
+192/498: Verse 6.29
+   Processing sutra 4.1.96...⚠️  Rate limit hit for sutra 4.1.96, waiting 15s...
+❌ Error for sutra 4.1.96: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+193/498: Verse 6.30
+   Processing sutra 4.4.82...⚠️  Rate limit hit for sutra 4.4.82, waiting 15s...
+ ✓ जन्याम्
+194/498: Verse 6.35
+   Processing sutra 4.1.69... ✓ रम्भोरु
+195/498: Verse 6.36
+   Processing sutra 4.2.87... ✓ कुमुद्वती
+196/498: Verse 6.37
+   Processing sutra 5.4.141...⚠️  Rate limit hit for sutra 5.4.141, waiting 15s...
+❌ Error for sutra 5.4.141: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+   Processing sutra 4.1.6...⚠️  Rate limit hit for sutra 4.1.6, waiting 15s...
+❌ Error for sutra 4.1.6: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+   Processing sutra 5.4.74...⚠️  Rate limit hit for sutra 5.4.74, waiting 15s...
+ ✓ अनूपराजस्य
+   Processing sutra 6.3.98... ✓ अनूपराजस्य
+197/498: Verse 6.40
+   Processing sutra 3.3.114...⚠️  Rate limit hit for sutra 3.3.114, waiting 15s...
+❌ Error for sutra 3.3.114: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+198/498: Verse 6.45
+   Processing sutra 3.2.1...⚠️  Rate limit hit for sutra 3.2.1, waiting 15s...
+❌ Error for sutra 3.2.1: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+   Processing sutra 4.1.15...⚠️  Rate limit hit for sutra 4.1.15, waiting 15s...
+ ✓ कुमारी
+199/498: Verse 6.46
+   Processing sutra 3.2.103...⚠️  Rate limit hit for sutra 3.2.103, waiting 15s...
+ ✓ यज्वा
+200/498: Verse 6.49
+   Processing sutra 7.3.36...⚠️  Rate limit hit for sutra 7.3.36, waiting 15s...
+❌ Error for sutra 7.3.36: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+
+💾 Auto-saving progress at verse 200/498...
+✅ Progress saved!
+
+201/498: Verse 6.51
+   Processing sutra 5.3.102... ✓ शैलायगन्धीनि
+202/498: Verse 6.59
+   Processing sutra 4.4.69...⚠️  Rate limit hit for sutra 4.4.69, waiting 15s...
+❌ Error for sutra 4.4.69: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+   Processing sutra 7.3.4...⚠️  Rate limit hit for sutra 7.3.4, waiting 15s...
+ ✓ दौवारिकी
+   Processing sutra 4.1.80... ✓ भोज्याम्
+   Processing sutra 4.1.74... ✓ भोज्याम्
+203/498: Verse 6.63
+   Processing sutra 4.1.141... ✓ महाकुलीनेन
+   Processing sutra 4.1.44... ✓ गुर्वी
+204/498: Verse 6.67
+   Processing sutra 8.1.4...⚠️  Rate limit hit for sutra 8.1.4, waiting 15s...
+❌ Error for sutra 8.1.4: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+205/498: Verse 6.69
+   Processing sutra 8.2.55...⚠️  Rate limit hit for sutra 8.2.55, waiting 15s...
+ ✓ प्रफुल्लं
+206/498: Verse 6.70
+   Processing sutra 3.3.33... ✓ वाक्यमिदं
+   Processing sutra 3.3.57... ✓ विस्तरं
+207/498: Verse 6.72
+   Processing sutra 5.4.77...⚠️  Rate limit hit for sutra 5.4.77, waiting 15s...
+❌ Error for sutra 5.4.77: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+208/498: Verse 6.73
+   Processing sutra 2.2.2...⚠️  Rate limit hit for sutra 2.2.2, waiting 15s...
+❌ Error for sutra 2.2.2: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+   Processing sutra 8.3.64...⚠️  Rate limit hit for sutra 8.3.64, waiting 15s...
+ ✓ अधितष्ठौ
+209/498: Verse 6.78
+   Processing sutra 3.4.72... ✓ अनुजातः
+210/498: Verse 6.81
+   Processing sutra 5.2.20...⚠️  Rate limit hit for sutra 5.2.20, waiting 15s...
+❌ Error for sutra 5.2.20: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+
+💾 Auto-saving progress at verse 210/498...
+✅ Progress saved!
+
+211/498: Verse 6.82
+   Processing sutra 4.1.62...⚠️  Rate limit hit for sutra 4.1.62, waiting 15s...
+❌ Error for sutra 4.1.62: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+212/498: Verse 6.83
+   Processing sutra 4.1.69...⚠️  Rate limit hit for sutra 4.1.69, waiting 15s...
+❌ Error for sutra 4.1.69: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+213/498: Verse 7.4
+   Processing sutra 2.4.22...⚠️  Rate limit hit for sutra 2.4.22, waiting 15s...
+ ✓ ध्वजच्छाय
+214/498: Verse 7.12
+   Processing sutra 4.1.92... ✓ राघवम्
+215/498: Verse 7.13
+   Processing sutra 5.1.127...⚠️  Rate limit hit for sutra 5.1.127, waiting 15s...
+ ✓ पद्मेव
+216/498: Verse 7.14
+   Processing sutra 8.1.15...⚠️  Rate limit hit for sutra 8.1.15, waiting 15s...
+❌ Error for sutra 8.1.15: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+   Processing sutra 3.3.139...⚠️  Rate limit hit for sutra 3.3.139, waiting 15s...
+❌ Error for sutra 3.3.139: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+217/498: Verse 7.33
+   Processing sutra 2.3.5... ✓ मार्गं
+218/498: Verse 7.37
+   Processing sutra 6.3.52... ✓ पदातिं
+219/498: Verse 7.45
+   Processing sutra 5.1.2... ✓ शरव्यम्
+220/498: Verse 7.50
+   Processing sutra 7.2.47...⚠️  Rate limit hit for sutra 7.2.47, waiting 15s...
+❌ Error for sutra 7.2.47: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+
+💾 Auto-saving progress at verse 220/498...
+✅ Progress saved!
+
+221/498: Verse 7.53
+   Processing sutra 2.2.37... ✓ प्रार्थितयोः
+222/498: Verse 7.56
+   Processing sutra 4.2.39... ✓ राजन्यकम्
+223/498: Verse 7.57
+   Processing sutra 3.2.53...⚠️  Rate limit hit for sutra 3.2.53, waiting 15s...
+ ✓ रिपुघ्नान्
+224/498: Verse 7.61
+   Processing sutra 4.2.24... ✓ गान्धर्वमस्त्रं
+225/498: Verse 7.69
+   Processing sutra 4.1.49...⚠️  Rate limit hit for sutra 4.1.49, waiting 15s...
+❌ Error for sutra 4.1.49: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+226/498: Verse 7.70
+   Processing sutra 3.1.101...⚠️  Rate limit hit for sutra 3.1.101, waiting 15s...
+❌ Error for sutra 3.1.101: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+227/498: Verse 8.2
+   Processing sutra 5.4.54...⚠️  Rate limit hit for sutra 5.4.54, waiting 15s...
+ ✓ आत्मसात्
+228/498: Verse 8.6
+   Processing sutra 5.2.140... ✓ शुभंयुना
+   Processing sutra 4.3.78...⚠️  Rate limit hit for sutra 4.3.78, waiting 15s...
+❌ Error for sutra 4.3.78: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+229/498: Verse 8.7
+   Processing sutra 1.3.66...⚠️  Rate limit hit for sutra 1.3.66, waiting 15s...
+❌ Error for sutra 1.3.66: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+230/498: Verse 8.8
+   Processing sutra 3.2.188...⚠️  Rate limit hit for sutra 3.2.188, waiting 15s...
+❌ Error for sutra 3.2.188: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+   Processing sutra 2.3.67... ✓ मतो
+   Processing sutra 2.3.65...⚠️  Rate limit hit for sutra 2.3.65, waiting 15s...
+ ✓ न
+
+💾 Auto-saving progress at verse 230/498...
+✅ Progress saved!
+
+231/498: Verse 8.10
+   Processing sutra 5.4.124... ✓ विनाशधर्मसु
+232/498: Verse 8.15
+   Processing sutra 2.3.72...⚠️  Rate limit hit for sutra 2.3.72, waiting 15s...
+ ✓ तुलाम्
+233/498: Verse 8.20
+   Processing sutra 5.4.52...⚠️  Rate limit hit for sutra 5.4.52, waiting 15s...
+❌ Error for sutra 5.4.52: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+234/498: Verse 8.21
+   Processing sutra 1.3.64...⚠️  Rate limit hit for sutra 1.3.64, waiting 15s...
+ ✓ उपायुङ्क्त
+235/498: Verse 8.22
+   Processing sutra 1.3.83... ✓ विरराम
+236/498: Verse 8.23
+   Processing sutra 5.2.44... ✓ उभयीं
+   Processing sutra 4.1.15... ✓ उभयीं
+237/498: Verse 8.25
+   Processing sutra 3.2.91...⚠️  Rate limit hit for sutra 3.2.91, waiting 15s...
+❌ Error for sutra 3.2.91: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+238/498: Verse 8.29
+   Processing sutra 3.4.83...⚠️  Rate limit hit for sutra 3.4.83, waiting 15s...
+ ✓ विदुर्बुधाः
+239/498: Verse 8.32
+   Processing sutra 5.4.122...⚠️  Rate limit hit for sutra 5.4.122, waiting 15s...
+ ✓ प्रजः
+240/498: Verse 8.33
+   Processing sutra 3.1.25... ✓ उपवीणयितुं
+
+💾 Auto-saving progress at verse 240/498...
+✅ Progress saved!
+
+241/498: Verse 8.35
+   Processing sutra 7.1.79...⚠️  Rate limit hit for sutra 7.1.79, waiting 15s...
+❌ Error for sutra 7.1.79: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+   Processing sutra 7.1.80...⚠️  Rate limit hit for sutra 7.1.80, waiting 15s...
+❌ Error for sutra 7.1.80: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+242/498: Verse 8.49
+   Processing sutra 3.2.188... ✓ विदितः
+   Processing sutra 2.3.67... ✓ विदितः
+243/498: Verse 8.58
+   Processing sutra 1.4.85... ✓ अनु
+244/498: Verse 8.64
+   Processing sutra 6.1.15...⚠️  Rate limit hit for sutra 6.1.15, waiting 15s...
+❌ Error for sutra 6.1.15: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+245/498: Verse 8.66
+   Processing sutra 3.3.113... ✓ शयनीयमद्य
+246/498: Verse 8.72
+   Processing sutra 5.4.54...⚠️  Rate limit hit for sutra 5.4.54, waiting 15s...
+❌ Error for sutra 5.4.54: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+247/498: Verse 8.73
+   Processing sutra 2.1.51...⚠️  Rate limit hit for sutra 2.1.51, waiting 15s...
+ ✓ दशाहः
+   Processing sutra 5.4.51...⚠️  Rate limit hit for sutra 5.4.51, waiting 15s...
+ ✓ दशाहतः
+   Processing sutra 2.4.29...⚠️  Rate limit hit for sutra 2.4.29, waiting 15s...
+ ✓ दशाहतः
+248/498: Verse 8.75
+   Processing sutra 3.2.107...⚠️  Rate limit hit for sutra 3.2.107, waiting 15s...
+ ✓ विजज्ञिवानिति
+249/498: Verse 8.76
+   Processing sutra 7.1.36...⚠️  Rate limit hit for sutra 7.1.36, waiting 15s...
+ ✓ विद्वानपि
+   Processing sutra 2.3.69... ✓ लोक
+250/498: Verse 8.79
+   Processing sutra 1.4.25... ✓ तपस्तृणबिन्दोः
+
+💾 Auto-saving progress at verse 250/498...
+✅ Progress saved!
+
+251/498: Verse 8.90
+   Processing sutra 1.1.33...⚠️  Rate limit hit for sutra 1.1.33, waiting 15s...
+❌ Error for sutra 1.1.33: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+252/498: Verse 8.94
+   Processing sutra 3.2.10...⚠️  Rate limit hit for sutra 3.2.10, waiting 15s...
+ ✓ वर्महरं
+   Processing sutra 5.1.117... ✓ विधिवत्प्रजानाम्
+253/498: Verse 8.95
+   Processing sutra 3.4.70... ✓ लेख्यमासाद्य
+254/498: Verse 9.2
+   Processing sutra 3.2.20... ✓ नगरन्ध्रुकरौजसः
+255/498: Verse 9.3
+   Processing sutra 3.2.135...⚠️  Rate limit hit for sutra 3.2.135, waiting 15s...
+❌ Error for sutra 3.2.135: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+256/498: Verse 9.9
+   Processing sutra 5.4.150...⚠️  Rate limit hit for sutra 5.4.150, waiting 15s...
+❌ Error for sutra 5.4.150: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+257/498: Verse 9.19
+   Processing sutra 1.4.52...⚠️  Rate limit hit for sutra 1.4.52, waiting 15s...
+❌ Error for sutra 1.4.52: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+258/498: Verse 9.24
+   Processing sutra 5.4.74... ✓ समधुरं
+259/498: Verse 9.26
+   Processing sutra 1.4.84... ✓ अनु
+260/498: Verse 9.28
+   Processing sutra 5.1.105... ✓ आर्तवम्
+
+💾 Auto-saving progress at verse 260/498...
+✅ Progress saved!
+
+261/498: Verse 9.34
+   Processing sutra 5.4.135... ✓ गन्धो
+262/498: Verse 9.36
+   Processing sutra 2.4.31...⚠️  Rate limit hit for sutra 2.4.31, waiting 15s...
+ ✓ मधु
+263/498: Verse 9.41
+   Processing sutra 3.2.118...⚠️  Rate limit hit for sutra 3.2.118, waiting 15s...
+❌ Error for sutra 3.2.118: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+264/498: Verse 9.43
+   Processing sutra 3.2.143...⚠️  Rate limit hit for sutra 3.2.143, waiting 15s...
+❌ Error for sutra 3.2.143: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+265/498: Verse 9.53
+   Processing sutra 4.4.8...⚠️  Rate limit hit for sutra 4.4.8, waiting 15s...
+❌ Error for sutra 4.4.8: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+266/498: Verse 9.56
+   Processing sutra 3.2.150... ✓ जवन
+   Processing sutra 4.1.54... ✓ तूणीमुखोद्धृतशरेण
+267/498: Verse 9.61
+   Processing sutra 3.1.40...⚠️  Rate limit hit for sutra 3.1.40, waiting 15s...
+❌ Error for sutra 3.1.40: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+268/498: Verse 9.63
+   Processing sutra 3.2.55...⚠️  Rate limit hit for sutra 3.2.55, waiting 15s...
+ ✓ फुल्ल
+269/498: Verse 9.67
+   Processing sutra 1.4.151... ✓ उरः
+270/498: Verse 9.69
+   Processing sutra 5.4.74... ✓ धराधिपम्
+
+💾 Auto-saving progress at verse 270/498...
+✅ Progress saved!
+
+271/498: Verse 9.74
+   Processing sutra 5.4.72...⚠️  Rate limit hit for sutra 5.4.72, waiting 15s...
+❌ Error for sutra 5.4.72: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+   Processing sutra 2.4.30...⚠️  Rate limit hit for sutra 2.4.30, waiting 15s...
+❌ Error for sutra 2.4.30: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+272/498: Verse 9.77
+   Processing sutra 1.2.70...⚠️  Rate limit hit for sutra 1.2.70, waiting 15s...
+❌ Error for sutra 1.2.70: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+273/498: Verse 9.78
+   Processing sutra 5.3.7... ✓ उरस्तः
+274/498: Verse 9.80
+   Processing sutra 3.1.110... ✓ करोति
+275/498: Verse 10.2
+   Processing sutra 3.2.50... ✓ शोकतमोपहम्
+276/498: Verse 10.4
+   Processing sutra 3.2.59... ✓ ऋत्विजः
+   Processing sutra 5.1.40...⚠️  Rate limit hit for sutra 5.1.40, waiting 15s...
+❌ Error for sutra 5.1.40: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+277/498: Verse 10.5
+   Processing sutra 3.2.48...⚠️  Rate limit hit for sutra 3.2.48, waiting 15s...
+❌ Error for sutra 3.2.48: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+278/498: Verse 10.6
+   Processing sutra 8.2.13...⚠️  Rate limit hit for sutra 8.2.13, waiting 15s...
+ ✓ उदन्वन्तं
+279/498: Verse 10.7
+   Processing sutra 3.1.135... ✓ दिवौकसः
+   Processing sutra 7.2.83... ✓ आसनासीनं
+280/498: Verse 10.15
+   Processing sutra 3.1.109... ✓ स्तुत्यम्
+   Processing sutra 5.4.77...⚠️  Rate limit hit for sutra 5.4.77, waiting 15s...
+❌ Error for sutra 5.4.77: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+
+💾 Auto-saving progress at verse 280/498...
+✅ Progress saved!
+
+281/498: Verse 10.20
+   Processing sutra 3.1.135...⚠️  Rate limit hit for sutra 3.1.135, waiting 15s...
+❌ Error for sutra 3.1.135: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+282/498: Verse 10.21
+   Processing sutra 2.1.51... ✓ सप्तार्णवजलेशयम्
+   Processing sutra 6.3.18... ✓ सप्तार्णवजलेशयम्
+283/498: Verse 10.22
+   Processing sutra 5.4.21... ✓ चतुर्वर्णमयः
+   Processing sutra 2.1.51... ✓ चतुर्वर्णमयो
+284/498: Verse 10.24
+   Processing sutra 3.2.101... ✓ अजस्य
+   Processing sutra 3.4.84...⚠️  Rate limit hit for sutra 3.4.84, waiting 15s...
+ ✓ वेद
+285/498: Verse 10.26
+   Processing sutra 4.2.114...⚠️  Rate limit hit for sutra 4.2.114, waiting 15s...
+❌ Error for sutra 4.2.114: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+286/498: Verse 10.33
+   Processing sutra 6.2.2...⚠️  Rate limit hit for sutra 6.2.2, waiting 15s...
+❌ Error for sutra 6.2.2: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+287/498: Verse 10.37
+   Processing sutra 6.3.34... ✓ निर्यातशेषा
+   Processing sutra 6.3.42... ✓ निर्यातशेषा
+288/498: Verse 10.39
+   Processing sutra 3.2.188...⚠️  Rate limit hit for sutra 3.2.188, waiting 15s...
+ ✓ विदितं
+   Processing sutra 2.3.67...⚠️  Rate limit hit for sutra 2.3.67, waiting 15s...
+❌ Error for sutra 2.3.67: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+289/498: Verse 10.44
+   Processing sutra 8.1.95...⚠️  Rate limit hit for sutra 8.1.95, waiting 15s...
+❌ Error for sutra 8.1.95: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+290/498: Verse 10.45
+   Processing sutra 5.2.121...⚠️  Rate limit hit for sutra 5.2.121, waiting 15s...
+ ✓ मायाविभि
+
+💾 Auto-saving progress at verse 290/498...
+✅ Progress saved!
+
+291/498: Verse 10.46
+   Processing sutra 4.4.8... ✓ चरन्तु
+292/498: Verse 10.55
+   Processing sutra 4.1.171...⚠️  Rate limit hit for sutra 4.1.171, waiting 15s...
+❌ Error for sutra 4.1.171: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+   Processing sutra 4.1.74...⚠️  Rate limit hit for sutra 4.1.74, waiting 15s...
+❌ Error for sutra 4.1.74: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+293/498: Verse 10.57
+   Processing sutra 4.1.35... ✓ सपत्न्योः
+294/498: Verse 10.64
+   Processing sutra 1.4.29...⚠️  Rate limit hit for sutra 1.4.29, waiting 15s...
+ ✓ ताभ्य
+295/498: Verse 10.66
+   Processing sutra 3.2.50...⚠️  Rate limit hit for sutra 3.2.50, waiting 15s...
+ ✓ तमोपहं
+296/498: Verse 10.70
+   Processing sutra 4.1.92...⚠️  Rate limit hit for sutra 4.1.92, waiting 15s...
+ ✓ कैकेय्या
+   Processing sutra 3.2.50... ✓ कैकेय्या
+297/498: Verse 10.77
+   Processing sutra 3.2.107... ✓ पेतुषी
+   Processing sutra 4.1.6... ✓ संतानकमयी
+298/498: Verse 10.81
+   Processing sutra 5.4.153... ✓ सौभ्रात्रे
+   Processing sutra 8.1.15... ✓ द्वन्द्वं
+299/498: Verse 10.84
+   Processing sutra 5.3.42...⚠️  Rate limit hit for sutra 5.3.42, waiting 15s...
+❌ Error for sutra 5.3.42: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+300/498: Verse 10.85
+   Processing sutra 2.1.51... ✓ चतुरन्तेशम्
+
+💾 Auto-saving progress at verse 300/498...
+✅ Progress saved!
+
+301/498: Verse 11.4
+   Processing sutra 3.2.167...⚠️  Rate limit hit for sutra 3.2.167, waiting 15s...
+❌ Error for sutra 3.2.167: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+302/498: Verse 11.5
+   Processing sutra 5.4.154...⚠️  Rate limit hit for sutra 5.4.154, waiting 15s...
+ ✓ शिखण्डकावुभौ
+303/498: Verse 11.7
+   Processing sutra 3.2.58... ✓ स्पृशौ
+   Processing sutra 6.4.125... ✓ रेचतुः
+304/498: Verse 11.8
+   Processing sutra 3.1.115... ✓ उद्ध्यभिद्ययो
+305/498: Verse 11.12
+   Processing sutra 5.2.102... ✓ तपस्विनः
+306/498: Verse 11.13
+   Processing sutra 4.1.95...⚠️  Rate limit hit for sutra 4.1.95, waiting 15s...
+❌ Error for sutra 4.1.95: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+307/498: Verse 11.14
+   Processing sutra 1.4.29...⚠️  Rate limit hit for sutra 1.4.29, waiting 15s...
+❌ Error for sutra 1.4.29: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+308/498: Verse 11.15
+   Processing sutra 5.2.116...⚠️  Rate limit hit for sutra 5.2.116, waiting 15s...
+ ✓ बलाकिनी
+309/498: Verse 11.16
+   Processing sutra 3.3.106... ✓ उत्थया
+   Processing sutra 4.2.49...⚠️  Rate limit hit for sutra 4.2.49, waiting 15s...
+❌ Error for sutra 4.2.49: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+310/498: Verse 11.17
+   Processing sutra 4.1.6...⚠️  Rate limit hit for sutra 4.1.6, waiting 15s...
+❌ Error for sutra 4.1.6: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+
+💾 Auto-saving progress at verse 310/498...
+✅ Progress saved!
+
+311/498: Verse 11.19
+   Processing sutra 3.2.107... ✓ निपेतुषी
+   Processing sutra 4.1.6...⚠️  Rate limit hit for sutra 4.1.6, waiting 15s...
+ ✓ निपेतुषी
+312/498: Verse 11.21
+   Processing sutra 3.2.53...⚠️  Rate limit hit for sutra 3.2.53, waiting 15s...
+❌ Error for sutra 3.2.53: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+313/498: Verse 11.22
+   Processing sutra 3.2.109...⚠️  Rate limit hit for sutra 3.2.109, waiting 15s...
+❌ Error for sutra 3.2.109: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+314/498: Verse 11.24
+   Processing sutra 5.4.79...⚠️  Rate limit hit for sutra 5.4.79, waiting 15s...
+ ✓ लोकमन्धतमसात्
+315/498: Verse 11.30
+   Processing sutra 4.4.99... ✓ सांयुगीनमभिनन्द्य
+316/498: Verse 11.36
+   Processing sutra 3.2.118... ✓ मन्यते
+317/498: Verse 11.40
+   Processing sutra 7.3.36...⚠️  Rate limit hit for sutra 7.3.36, waiting 15s...
+❌ Error for sutra 7.3.36: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+318/498: Verse 11.42
+   Processing sutra 5.1.130... ✓ पौरुषं
+   Processing sutra 5.2.37...⚠️  Rate limit hit for sutra 5.2.37, waiting 15s...
+❌ Error for sutra 5.2.37: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+319/498: Verse 11.43
+   Processing sutra 2.3.15... ✓ कार्मुकाभिहरणाय
+   Processing sutra 5.4.43... ✓ गणशो
+320/498: Verse 11.48
+   Processing sutra 5.4.154...⚠️  Rate limit hit for sutra 5.4.154, waiting 15s...
+ ✓ अग्निसाक्षिक
+
+💾 Auto-saving progress at verse 320/498...
+✅ Progress saved!
+
+321/498: Verse 11.50
+   Processing sutra 3.1.87...⚠️  Rate limit hit for sutra 3.1.87, waiting 15s...
+ ✓ पच्यते
+   Processing sutra 1.3.13...⚠️  Rate limit hit for sutra 1.3.13, waiting 15s...
+❌ Error for sutra 1.3.13: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+322/498: Verse 11.54
+   Processing sutra 4.1.92... ✓ पार्थिवीम्
+   Processing sutra 4.1.15... ✓ पार्थिवीम्
+323/498: Verse 11.58
+   Processing sutra 4.1.42... ✓ वरूथिनीम्
+324/498: Verse 11.60
+   Processing sutra 5.2.112... ✓ रजस्वला
+325/498: Verse 11.61
+   Processing sutra 1.4.48... ✓ दिशम्
+326/498: Verse 11.64
+   Processing sutra 4.2.31...⚠️  Rate limit hit for sutra 4.2.31, waiting 15s...
+ ✓ पित्र्यम्
+   Processing sutra 4.3.78... ✓ मातृकं
+327/498: Verse 11.69
+   Processing sutra 5.3.14...⚠️  Rate limit hit for sutra 5.3.14, waiting 15s...
+❌ Error for sutra 5.3.14: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+328/498: Verse 11.75
+   Processing sutra 5.1.116...⚠️  Rate limit hit for sutra 5.1.116, waiting 15s...
+❌ Error for sutra 5.1.116: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+329/498: Verse 11.76
+   Processing sutra 6.4.36... ✓ अभाजि
+330/498: Verse 11.77
+   Processing sutra 6.4.56... ✓ संगमय्य
+
+💾 Auto-saving progress at verse 330/498...
+✅ Progress saved!
+
+331/498: Verse 11.81
+   Processing sutra 5.1.101... ✓ कार्मुकं
+332/498: Verse 11.82
+   Processing sutra 4.2.43...⚠️  Rate limit hit for sutra 4.2.43, waiting 15s...
+❌ Error for sutra 4.2.43: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+333/498: Verse 11.86
+   Processing sutra 5.4.52... ✓ भस्मसात्कृतवतः
+   Processing sutra 5.4.55...⚠️  Rate limit hit for sutra 5.4.55, waiting 15s...
+❌ Error for sutra 5.4.55: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+334/498: Verse 11.91
+   Processing sutra 2.1.6... ✓ सलक्ष्मण
+   Processing sutra 2.2.28... ✓ सलक्ष्मणं
+335/498: Verse 11.93
+   Processing sutra 5.3.67... ✓ शर्वकल्पः
+   Processing sutra 5.2.36...⚠️  Rate limit hit for sutra 5.2.36, waiting 15s...
+❌ Error for sutra 5.2.36: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+336/498: Verse 12.18
+   Processing sutra 1.3.63...⚠️  Rate limit hit for sutra 1.3.63, waiting 15s...
+❌ Error for sutra 1.3.63: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+337/498: Verse 12.19
+   Processing sutra 6.3.34...⚠️  Rate limit hit for sutra 6.3.34, waiting 15s...
+❌ Error for sutra 6.3.34: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+338/498: Verse 12.23
+   Processing sutra 3.1.52... ✓ आस्थत्
+   Processing sutra 7.4.17...⚠️  Rate limit hit for sutra 7.4.17, waiting 15s...
+❌ Error for sutra 7.4.17: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+339/498: Verse 12.25
+   Processing sutra 4.4.104... ✓ आतिथेयेषु
+   Processing sutra 4.3.18...⚠️  Rate limit hit for sutra 4.3.18, waiting 15s...
+❌ Error for sutra 4.3.18: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+340/498: Verse 12.30
+   Processing sutra 3.3.4...⚠️  Rate limit hit for sutra 3.3.4, waiting 15s...
+❌ Error for sutra 3.3.4: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+
+💾 Auto-saving progress at verse 340/498...
+✅ Progress saved!
+
+341/498: Verse 12.31
+   Processing sutra 2.1.51... ✓ पञ्चवट्यां
+   Processing sutra 2.1.22... ✓ पञ्चवट्यां
+   Processing sutra 4.1.21... ✓ पञ्चवट्यां
+   Processing sutra 2.4.1...⚠️  Rate limit hit for sutra 2.4.1, waiting 15s...
+❌ Error for sutra 2.4.1: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+342/498: Verse 12.32
+   Processing sutra 8.4.3... ✓ रावणावरजा
+343/498: Verse 12.34
+   Processing sutra 3.1.8... ✓ वृषस्यन्तीं
+   Processing sutra 7.1.51... ✓ वृषस्यन्तीं
+   Processing sutra 4.1.6... ✓ वृषस्यन्तीं
+344/498: Verse 12.42
+   Processing sutra 2.4.21... ✓ रामोपक्रममाचख्यौ
+345/498: Verse 12.49
+   Processing sutra 2.3.29... ✓ कबन्धेभ्यो
+346/498: Verse 12.50
+   Processing sutra 2.4.22...⚠️  Rate limit hit for sutra 2.4.22, waiting 15s...
+ ✓ गृध्रच्छाये
+347/498: Verse 12.51
+   Processing sutra 8.4.3...⚠️  Rate limit hit for sutra 8.4.3, waiting 15s...
+ ✓ शूर्पणखैवैका
+   Processing sutra 3.2.9...⚠️  Rate limit hit for sutra 3.2.9, waiting 15s...
+ ✓ दुष्प्रवृत्तिहरा
+348/498: Verse 12.62
+   Processing sutra 4.3.62...⚠️  Rate limit hit for sutra 4.3.62, waiting 15s...
+❌ Error for sutra 4.3.62: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+349/498: Verse 12.69
+   Processing sutra 1.4.40...⚠️  Rate limit hit for sutra 1.4.40, waiting 15s...
+❌ Error for sutra 1.4.40: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+350/498: Verse 12.74
+   Processing sutra 7.1.81...⚠️  Rate limit hit for sutra 7.1.81, waiting 15s...
+ ✓ शंसन्ती
+
+💾 Auto-saving progress at verse 350/498...
+✅ Progress saved!
+
+351/498: Verse 12.78
+   Processing sutra 5.1.132...⚠️  Rate limit hit for sutra 5.1.132, waiting 15s...
+ ✓ आचार्यकं
+352/498: Verse 12.85
+   Processing sutra 5.4.38...⚠️  Rate limit hit for sutra 5.4.38, waiting 15s...
+❌ Error for sutra 5.4.38: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+353/498: Verse 12.86
+   Processing sutra 3.3.118...⚠️  Rate limit hit for sutra 3.3.118, waiting 15s...
+ ✓ तनुच्छदम्
+354/498: Verse 12.90
+   Processing sutra 1.1.29... ✓ इतर
+355/498: Verse 12.93
+   Processing sutra 2.3.4... ✓ द्वयोरपि
+356/498: Verse 12.104
+   Processing sutra 6.4.92... ✓ संगमय्य
+   Processing sutra 6.4.56... ✓ संगमय्य
+   Processing sutra 1.3.22... ✓ प्रतस्थे
+357/498: Verse 13.1
+   Processing sutra 3.1.135...⚠️  Rate limit hit for sutra 3.1.135, waiting 15s...
+❌ Error for sutra 3.1.135: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+358/498: Verse 13.2
+   Processing sutra 2.3.10... ✓ मलयात्
+   Processing sutra 5.2.99...⚠️  Rate limit hit for sutra 5.2.99, waiting 15s...
+❌ Error for sutra 5.2.99: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+359/498: Verse 13.5
+   Processing sutra 8.1.4... ✓ तां ताम
+360/498: Verse 13.7
+   Processing sutra 3.2.61... ✓ पक्षच्छिदा
+
+💾 Auto-saving progress at verse 360/498...
+✅ Progress saved!
+
+361/498: Verse 13.9
+   Processing sutra 1.3.79...⚠️  Rate limit hit for sutra 1.3.79, waiting 15s...
+❌ Error for sutra 1.3.79: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+   Processing sutra 1.4.52... ✓ सिन्धूः
+362/498: Verse 13.12
+   Processing sutra 2.3.14...⚠️  Rate limit hit for sutra 2.3.14, waiting 15s...
+❌ Error for sutra 2.3.14: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+   Processing sutra 3.3.89...⚠️  Rate limit hit for sutra 3.3.89, waiting 15s...
+ ✓ विस्फूर्जथुनिर्विशेषाः
+363/498: Verse 13.18
+   Processing sutra 4.1.69... ✓ करभोरु
+364/498: Verse 13.19
+   Processing sutra 1.3.54... ✓ सञ्चरते
+365/498: Verse 13.20
+   Processing sutra 2.1.51... ✓ त्रिमार्गगा
+366/498: Verse 13.24
+   Processing sutra 4.1.36...⚠️  Rate limit hit for sutra 4.1.36, waiting 15s...
+❌ Error for sutra 4.1.36: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+367/498: Verse 13.27
+   Processing sutra 1.2.69...⚠️  Rate limit hit for sutra 1.2.69, waiting 15s...
+❌ Error for sutra 1.2.69: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+368/498: Verse 13.35
+   Processing sutra 2.1.15...⚠️  Rate limit hit for sutra 2.1.15, waiting 15s...
+❌ Error for sutra 2.1.15: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+369/498: Verse 13.39
+   Processing sutra 2.1.51... ✓ यौवनकूटबन्धम्
+370/498: Verse 13.41
+   Processing sutra 3.2.36...⚠️  Rate limit hit for sutra 3.2.36, waiting 15s...
+ ✓ ललाटंतप
+   Processing sutra 3.1.15... ✓ तपस्यति
+
+💾 Auto-saving progress at verse 370/498...
+✅ Progress saved!
+
+371/498: Verse 13.43
+   Processing sutra 3.2.1... ✓ कण्डूयितारम्
+372/498: Verse 13.44
+   Processing sutra 3.2.40...⚠️  Rate limit hit for sutra 3.2.40, waiting 15s...
+❌ Error for sutra 3.2.40: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+   Processing sutra 6.3.69...⚠️  Rate limit hit for sutra 6.3.69, waiting 15s...
+❌ Error for sutra 6.3.69: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+   Processing sutra 2.1.38... ✓ विमानव्यवधानमुक्तां
+373/498: Verse 13.49
+   Processing sutra 5.4.112... ✓ अनुगिरं
+   Processing sutra 5.4.135...⚠️  Rate limit hit for sutra 5.4.135, waiting 15s...
+❌ Error for sutra 5.4.135: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+374/498: Verse 13.51
+   Processing sutra 2.1.50...⚠️  Rate limit hit for sutra 2.1.50, waiting 15s...
+❌ Error for sutra 2.1.50: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+375/498: Verse 13.60
+   Processing sutra 6.4.144...⚠️  Rate limit hit for sutra 6.4.144, waiting 15s...
+ ✓ ब्राह्मं
+376/498: Verse 13.61
+   Processing sutra 1.4.90... ✓ अनु
+377/498: Verse 13.64
+   Processing sutra 6.3.20... ✓ हनूमत्कथितप्रवृत्तिः
+378/498: Verse 13.66
+   Processing sutra 5.4.153... ✓ चीरवासा
+379/498: Verse 13.67
+   Processing sutra 2.3.69... ✓ अभोक्ता
+380/498: Verse 13.75
+   Processing sutra 3.3.88... ✓ कृत्रिम
+   Processing sutra 4.4.20...⚠️  Rate limit hit for sutra 4.4.20, waiting 15s...
+❌ Error for sutra 4.4.20: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+
+💾 Auto-saving progress at verse 380/498...
+✅ Progress saved!
+
+381/498: Verse 14.1
+   Processing sutra 3.3.85...⚠️  Rate limit hit for sutra 3.3.85, waiting 15s...
+ ✓ उपघ्न
+382/498: Verse 14.8
+   Processing sutra 3.2.139... ✓ जिष्णोर्
+383/498: Verse 14.15
+   Processing sutra 7.3.19... ✓ सौहार्दनिधिः
+   Processing sutra 3.1.16...⚠️  Rate limit hit for sutra 3.1.16, waiting 15s...
+❌ Error for sutra 3.1.16: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+384/498: Verse 14.23
+   Processing sutra 3.2.5... ✓ शोकापनुदेव
+385/498: Verse 14.29
+   Processing sutra 3.2.32...⚠️  Rate limit hit for sutra 3.2.32, waiting 15s...
+❌ Error for sutra 3.2.32: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+   Processing sutra 6.3.67...⚠️  Rate limit hit for sutra 6.3.67, waiting 15s...
+ ✓ अभ्रंलिह
+386/498: Verse 14.30
+   Processing sutra 1.2.67...⚠️  Rate limit hit for sutra 1.2.67, waiting 15s...
+❌ Error for sutra 1.2.67: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+387/498: Verse 14.33
+   Processing sutra 6.3.67... ✓ वैदेहिबन्धोर्
+388/498: Verse 14.35
+   Processing sutra 2.3.42...⚠️  Rate limit hit for sutra 2.3.42, waiting 15s...
+❌ Error for sutra 2.3.42: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+389/498: Verse 14.38
+   Processing sutra 5.1.109...⚠️  Rate limit hit for sutra 5.1.109, waiting 15s...
+❌ Error for sutra 5.1.109: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+390/498: Verse 14.45
+   Processing sutra 3.2.158...⚠️  Rate limit hit for sutra 3.2.158, waiting 15s...
+ ✓ स्पृहयालुरेव
+   Processing sutra 6.4.57...⚠️  Rate limit hit for sutra 6.4.57, waiting 15s...
+❌ Error for sutra 6.4.57: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+
+💾 Auto-saving progress at verse 390/498...
+✅ Progress saved!
+
+391/498: Verse 14.46
+   Processing sutra 2.3.69... ✓ पितुः
+   Processing sutra 3.2.108...⚠️  Rate limit hit for sutra 3.2.108, waiting 15s...
+ ✓ द्विषद्वत्
+   Processing sutra 5.1.116... ✓ शुश्रुवान्
+392/498: Verse 14.47
+   Processing sutra 3.2.140...⚠️  Rate limit hit for sutra 3.2.140, waiting 15s...
+ ✓ अत्रस्नुभि
+393/498: Verse 14.48
+   Processing sutra 3.2.44...⚠️  Rate limit hit for sutra 3.2.44, waiting 15s...
+❌ Error for sutra 3.2.44: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+394/498: Verse 14.56
+   Processing sutra 3.1.88...⚠️  Rate limit hit for sutra 3.1.88, waiting 15s...
+❌ Error for sutra 3.1.88: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+395/498: Verse 14.57
+   Processing sutra 2.3.29... ✓ वृजिनादृते
+   Processing sutra 3.2.136...⚠️  Rate limit hit for sutra 3.2.136, waiting 15s...
+❌ Error for sutra 3.2.136: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+396/498: Verse 14.61
+   Processing sutra 5.4.107... ✓ समक्षम्
+397/498: Verse 14.63
+   Processing sutra 6.1.146...⚠️  Rate limit hit for sutra 6.1.146, waiting 15s...
+ ✓ आस्पदं
+398/498: Verse 14.64
+   Processing sutra 5.4.153...⚠️  Rate limit hit for sutra 5.4.153, waiting 15s...
+❌ Error for sutra 5.4.153: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+399/498: Verse 14.71
+   Processing sutra 6.1.12... ✓ दाश्वान्
+400/498: Verse 14.72
+   Processing sutra 6.4.74...⚠️  Rate limit hit for sutra 6.4.74, waiting 15s...
+ ✓ व्यथिष्ठा
+
+💾 Auto-saving progress at verse 400/498...
+✅ Progress saved!
+
+401/498: Verse 14.77
+   Processing sutra 5.1.13... ✓ बालेयमकृष्टरोहि
+402/498: Verse 14.78
+   Processing sutra 3.2.29...⚠️  Rate limit hit for sutra 3.2.29, waiting 15s...
+❌ Error for sutra 3.2.29: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+   Processing sutra 6.3.67...⚠️  Rate limit hit for sutra 6.3.67, waiting 15s...
+❌ Error for sutra 6.3.67: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+403/498: Verse 14.81
+   Processing sutra 2.3.26...⚠️  Rate limit hit for sutra 2.3.26, waiting 15s...
+❌ Error for sutra 2.3.26: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+404/498: Verse 14.85
+   Processing sutra 3.2.165... ✓ जागरूकः
+405/498: Verse 14.87
+   Processing sutra 1.3.56... ✓ उपेमे
+406/498: Verse 15.6
+   Processing sutra 3.2.53... ✓ शत्रुघ्ने
+   Processing sutra 3.3.113...⚠️  Rate limit hit for sutra 3.3.113, waiting 15s...
+ ✓ शत्रुघ्ने
+407/498: Verse 15.7
+   Processing sutra 3.2.39... ✓ परंतपः
+   Processing sutra 6.4.94...⚠️  Rate limit hit for sutra 6.4.94, waiting 15s...
+ ✓ परंतपः
+408/498: Verse 15.10
+   Processing sutra 8.3.92... ✓ रथप्रष्ठै
+409/498: Verse 15.11
+   Processing sutra 4.2.114... ✓ वाल्मीकीये
+410/498: Verse 15.13
+   Processing sutra 4.1.32... ✓ अन्तर्वत्नी
+
+💾 Auto-saving progress at verse 410/498...
+✅ Progress saved!
+
+411/498: Verse 15.17
+   Processing sutra 5.2.6...⚠️  Rate limit hit for sutra 5.2.6, waiting 15s...
+❌ Error for sutra 5.2.6: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+412/498: Verse 15.26
+   Processing sutra 4.4.109...⚠️  Rate limit hit for sutra 4.4.109, waiting 15s...
+❌ Error for sutra 4.4.109: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+413/498: Verse 15.31
+   Processing sutra 3.2.89...⚠️  Rate limit hit for sutra 3.2.89, waiting 15s...
+ ✓ मन्त्रकृत्
+414/498: Verse 15.33
+   Processing sutra 1.4.52...⚠️  Rate limit hit for sutra 1.4.52, waiting 15s...
+ ✓ स्वकृतिं
+415/498: Verse 15.35
+   Processing sutra 4.1.32... ✓ पतिवत्नीषु
+416/498: Verse 15.40
+   Processing sutra 3.2.63... ✓ तुराषाडिव
+   Processing sutra 6.3.137...⚠️  Rate limit hit for sutra 6.3.137, waiting 15s...
+❌ Error for sutra 6.3.137: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+   Processing sutra 8.3.56...⚠️  Rate limit hit for sutra 8.3.56, waiting 15s...
+ ✓ तुराषाडिव
+417/498: Verse 15.41
+   Processing sutra 2.4.54...⚠️  Rate limit hit for sutra 2.4.54, waiting 15s...
+ ✓ आख्यत्
+   Processing sutra 3.1.52... ✓ आख्यत्
+   Processing sutra 6.4.64...⚠️  Rate limit hit for sutra 6.4.64, waiting 15s...
+❌ Error for sutra 6.4.64: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+418/498: Verse 15.49
+   Processing sutra 4.2.32...⚠️  Rate limit hit for sutra 4.2.32, waiting 15s...
+❌ Error for sutra 4.2.32: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+   Processing sutra 6.4.174... ✓ ऐक्ष्वाक
+419/498: Verse 15.50
+   Processing sutra 3.2.4...⚠️  Rate limit hit for sutra 3.2.4, waiting 15s...
+ ✓ धूमपः
+420/498: Verse 15.51
+   Processing sutra 5.1.65...⚠️  Rate limit hit for sutra 5.1.65, waiting 15s...
+❌ Error for sutra 5.1.65: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+
+💾 Auto-saving progress at verse 420/498...
+✅ Progress saved!
+
+421/498: Verse 15.57
+   Processing sutra 1.4.25... ✓ वैवस्वतादपि
+422/498: Verse 15.61
+   Processing sutra 5.4.134...⚠️  Rate limit hit for sutra 5.4.134, waiting 15s...
+ ✓ अनन्यजानेः
+   Processing sutra 6.4.174... ✓ जानेः
+423/498: Verse 15.63
+   Processing sutra 4.1.120... ✓ मैथिलेयौ
+   Processing sutra 3.3.106... ✓ उपज्ञम्
+   Processing sutra 3.3.106...⚠️  Rate limit hit for sutra 3.3.106, waiting 15s...
+❌ Error for sutra 3.3.106: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+   Processing sutra 2.4.21... ✓ रामायणम्
+   Processing sutra 8.4.3...⚠️  Rate limit hit for sutra 8.4.3, waiting 15s...
+❌ Error for sutra 8.4.3: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+424/498: Verse 15.67
+   Processing sutra 4.3.7...⚠️  Rate limit hit for sutra 4.3.7, waiting 15s...
+ ✓ जनता
+   Processing sutra 1.3.22... ✓ व्यतिष्ठत
+425/498: Verse 15.71
+   Processing sutra 5.1.109...⚠️  Rate limit hit for sutra 5.1.109, waiting 15s...
+❌ Error for sutra 5.1.109: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+426/498: Verse 15.72
+   Processing sutra 5.4.107... ✓ समक्षं
+427/498: Verse 15.73
+   Processing sutra 2.4.46... ✓ प्रत्याययतु
+428/498: Verse 15.77
+   Processing sutra 4.2.1...⚠️  Rate limit hit for sutra 4.2.1, waiting 15s...
+❌ Error for sutra 4.2.1: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+429/498: Verse 15.81
+   Processing sutra 3.2.46...⚠️  Rate limit hit for sutra 3.2.46, waiting 15s...
+❌ Error for sutra 3.2.46: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+   Processing sutra 6.3.67...⚠️  Rate limit hit for sutra 6.3.67, waiting 15s...
+ ✓ विश्वंभरे
+430/498: Verse 15.83
+   Processing sutra 6.4.94... ✓ वसुंधरा
+
+💾 Auto-saving progress at verse 430/498...
+✅ Progress saved!
+
+431/498: Verse 15.84
+   Processing sutra 2.3.38...⚠️  Rate limit hit for sutra 2.3.38, waiting 15s...
+❌ Error for sutra 2.3.38: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+432/498: Verse 15.96
+   Processing sutra 5.4.140...⚠️  Rate limit hit for sutra 5.4.140, waiting 15s...
+❌ Error for sutra 5.4.140: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+433/498: Verse 15.97
+   Processing sutra 6.3.120... ✓ कुशम्
+   Processing sutra 3.4.53... ✓ निवेश्य
+   Processing sutra 6.1.158... ✓ एक
+434/498: Verse 15.98
+   Processing sutra 6.3.120... ✓ पुरःसरः
+   Processing sutra 3.4.53... ✓ गृहवर्जम्
+   Processing sutra 6.1.158...⚠️  Rate limit hit for sutra 6.1.158, waiting 15s...
+❌ Error for sutra 6.1.158: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+435/498: Verse 16.1
+   Processing sutra 5.1.130...⚠️  Rate limit hit for sutra 5.1.130, waiting 15s...
+ ✓ सौभ्रात्रम्
+436/498: Verse 16.4
+   Processing sutra 2.2.4...⚠️  Rate limit hit for sutra 2.2.4, waiting 15s...
+❌ Error for sutra 2.2.4: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+   Processing sutra 5.4.87... ✓ अर्धरात्रे
+   Processing sutra 2.4.29... ✓ अर्धरात्रे
+437/498: Verse 16.12
+   Processing sutra 3.3.119... ✓ संचर
+438/498: Verse 16.14
+   Processing sutra 3.2.15... ✓ वृक्षेशया
+   Processing sutra 6.3.18...⚠️  Rate limit hit for sutra 6.3.18, waiting 15s...
+❌ Error for sutra 6.3.18: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+439/498: Verse 16.21
+   Processing sutra 3.3.113...⚠️  Rate limit hit for sutra 3.3.113, waiting 15s...
+❌ Error for sutra 3.3.113: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+440/498: Verse 16.25
+   Processing sutra 5.4.54... ✓ श्रोत्रियसात्
+   Processing sutra 5.2.84... ✓ श्रोत्रियसात्
+
+💾 Auto-saving progress at verse 440/498...
+✅ Progress saved!
+
+441/498: Verse 16.27
+   Processing sutra 8.2.13... ✓ उदन्वानिव
+442/498: Verse 16.28
+   Processing sutra 2.3.65... ✓ वरूथिनीनां
+443/498: Verse 16.29
+   Processing sutra 1.3.75...⚠️  Rate limit hit for sutra 1.3.75, waiting 15s...
+ ✓ उद्यच्छमाना
+444/498: Verse 16.41
+   Processing sutra 3.2.157... ✓ संश्रयिभिस्तुरंगैः
+445/498: Verse 16.42
+   Processing sutra 1.4.37...⚠️  Rate limit hit for sutra 1.4.37, waiting 15s...
+❌ Error for sutra 1.4.37: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+446/498: Verse 16.46
+   Processing sutra 5.2.37...⚠️  Rate limit hit for sutra 5.2.37, waiting 15s...
+ ✓ द्वयसं
+447/498: Verse 16.47
+   Processing sutra 5.4.135... ✓ उद्गन्धिषु
+448/498: Verse 16.55
+   Processing sutra 3.3.124... ✓ आनायिभिस्तामपकृष्टनक्राम्
+449/498: Verse 16.62
+   Processing sutra 3.2.162... ✓ छिदुरो
+450/498: Verse 16.63
+   Processing sutra 3.2.143...⚠️  Rate limit hit for sutra 3.2.143, waiting 15s...
+❌ Error for sutra 3.2.143: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+
+💾 Auto-saving progress at verse 450/498...
+✅ Progress saved!
+
+451/498: Verse 16.69
+   Processing sutra 4.1.47...⚠️  Rate limit hit for sutra 4.1.47, waiting 15s...
+ ✓ भ्राजिष्णुना
+452/498: Verse 16.75
+   Processing sutra 3.2.4... ✓ नदीष्णान्
+   Processing sutra 8.3.89...⚠️  Rate limit hit for sutra 8.3.89, waiting 15s...
+ ✓ नदीष्णान्
+453/498: Verse 16.80
+   Processing sutra 3.2.1... ✓ विभूषणप्रत्युपहार
+454/498: Verse 16.81
+   Processing sutra 2.3.69... ✓ त्रैलोक्यनाथप्रभवं
+   Processing sutra 2.1.24...⚠️  Rate limit hit for sutra 2.1.24, waiting 15s...
+❌ Error for sutra 2.1.24: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+455/498: Verse 16.85
+   Processing sutra 3.3.132...⚠️  Rate limit hit for sutra 3.3.132, waiting 15s...
+ ✓ नुदतीम्
+   Processing sutra 7.1.80... ✓ नुदतीं
+456/498: Verse 16.88
+   Processing sutra 2.1.51...⚠️  Rate limit hit for sutra 2.1.51, waiting 15s...
+ ✓ त्रिभुवनगुरोरौरसं
+457/498: Verse 17.5
+   Processing sutra 5.1.132...⚠️  Rate limit hit for sutra 5.1.132, waiting 15s...
+❌ Error for sutra 5.1.132: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+   Processing sutra 2.4.43...⚠️  Rate limit hit for sutra 2.4.43, waiting 15s...
+ ✓ जघान
+458/498: Verse 17.8
+   Processing sutra 2.3.70... ✓ भर्तुः
+459/498: Verse 17.25
+   Processing sutra 5.2.121... ✓ स्रग्वी
+460/498: Verse 17.28
+   Processing sutra 4.3.78... ✓ पैतृकम्
+
+💾 Auto-saving progress at verse 460/498...
+✅ Progress saved!
+
+461/498: Verse 17.32
+   Processing sutra 1.2.43... ✓ क्रममाण
+462/498: Verse 17.49
+   Processing sutra 5.4.77... ✓ रात्रिंदिव
+463/498: Verse 17.52
+   Processing sutra 3.2.15... ✓ गिरिगुहाशयः
+464/498: Verse 17.53
+   Processing sutra 5.4.124...⚠️  Rate limit hit for sutra 5.4.124, waiting 15s...
+❌ Error for sutra 5.4.124: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+465/498: Verse 17.58
+   Processing sutra 1.3.45...⚠️  Rate limit hit for sutra 1.3.45, waiting 15s...
+❌ Error for sutra 1.3.45: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+466/498: Verse 17.59
+   Processing sutra 5.3.65...⚠️  Rate limit hit for sutra 5.3.65, waiting 15s...
+ ✓ बल
+467/498: Verse 17.61
+   Processing sutra 3.3.101... ✓ परकर्मापहः
+468/498: Verse 17.62
+   Processing sutra 5.1.63... ✓ सांपरायिकः
+469/498: Verse 17.67
+   Processing sutra 3.2.3... ✓ विनियोगज्ञः
+   Processing sutra 3.1.135... ✓ विनियोगज्ञः
+470/498: Verse 17.71
+   Processing sutra 3.2.157... ✓ वृद्धौ
+
+💾 Auto-saving progress at verse 470/498...
+✅ Progress saved!
+
+471/498: Verse 17.76
+   Processing sutra 4.4.92...⚠️  Rate limit hit for sutra 4.4.92, waiting 15s...
+❌ Error for sutra 4.4.92: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+472/498: Verse 18.4
+   Processing sutra 1.3.66...⚠️  Rate limit hit for sutra 1.3.66, waiting 15s...
+❌ Error for sutra 1.3.66: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+473/498: Verse 18.5
+   Processing sutra 4.2.88... ✓ नड्वलानीव
+474/498: Verse 18.7
+   Processing sutra 3.1.105... ✓ अजर्यं
+475/498: Verse 18.8
+   Processing sutra 6.1.81... ✓ अजय्यो
+476/498: Verse 18.9
+   Processing sutra 5.4.132... ✓ अमोघधन्वा
+   Processing sutra 5.4.133... ✓ क्षेमधन्वानम्
+477/498: Verse 18.13
+   Processing sutra 3.2.38...⚠️  Rate limit hit for sutra 3.2.38, waiting 15s...
+❌ Error for sutra 3.2.38: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+478/498: Verse 18.17
+   Processing sutra 5.2.20... ✓ शालिनतामव्रजदीड्यमानः
+479/498: Verse 18.19
+   Processing sutra 7.3.52...⚠️  Rate limit hit for sutra 7.3.52, waiting 15s...
+❌ Error for sutra 7.3.52: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+480/498: Verse 18.20
+   Processing sutra 5.4.75...⚠️  Rate limit hit for sutra 5.4.75, waiting 15s...
+ ✓ उन्नाभ
+
+💾 Auto-saving progress at verse 480/498...
+✅ Progress saved!
+
+481/498: Verse 18.27
+   Processing sutra 3.2.90... ✓ सोमसुतः
+482/498: Verse 18.28
+   Processing sutra 5.3.65... ✓ ब्रह्म
+   Processing sutra 6.4.144... ✓ ब्रह्मिष्ठम्
+483/498: Verse 18.31
+   Processing sutra 2.1.57... ✓ त्रिपुष्करेषु
+484/498: Verse 18.32
+   Processing sutra 4.2.3... ✓ पौष्यां
+   Processing sutra 4.1.15...⚠️  Rate limit hit for sutra 4.1.15, waiting 15s...
+❌ Error for sutra 4.1.15: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+485/498: Verse 18.39
+   Processing sutra 2.1.51...⚠️  Rate limit hit for sutra 2.1.51, waiting 15s...
+ ✓ षड्वर्षः
+   Processing sutra 5.3.67... ✓ षड्वर्षदेशीयमपि
+486/498: Verse 18.45
+   Processing sutra 3.1.39... ✓ बिभरांबभूव
+487/498: Verse 18.52
+   Processing sutra 5.9.7... ✓ सर्वाङ्गीणम्
+488/498: Verse 18.53
+   Processing sutra 2.3.42... ✓ रचनाभ्यो
+489/498: Verse 19.4
+   Processing sutra 5.2.74... ✓ अभिकः
+490/498: Verse 19.14
+   Processing sutra 3.1.145... ✓ नर्तकीरभिनयातिलङ्घिनीः
+   Processing sutra 4.1.41...⚠️  Rate limit hit for sutra 4.1.41, waiting 15s...
+❌ Error for sutra 4.1.41: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+
+💾 Auto-saving progress at verse 490/498...
+✅ Progress saved!
+
+491/498: Verse 19.31
+   Processing sutra 3.4.83...⚠️  Rate limit hit for sutra 3.4.83, waiting 15s...
+❌ Error for sutra 3.4.83: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+492/498: Verse 19.33
+   Processing sutra 3.1.140...⚠️  Rate limit hit for sutra 3.1.140, waiting 15s...
+ ✓ चार
+493/498: Verse 19.34
+   Processing sutra 3.2.15... ✓ दिवाशयः
+494/498: Verse 19.35
+   Processing sutra 3.2.1... ✓ शिल्पकार्य
+   Processing sutra 4.1.15... ✓ शिल्पकार्य
+495/498: Verse 19.38
+   Processing sutra 7.1.80...⚠️  Rate limit hit for sutra 7.1.80, waiting 15s...
+❌ Error for sutra 7.1.80: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+496/498: Verse 19.39
+   Processing sutra 4.3.120...⚠️  Rate limit hit for sutra 4.3.120, waiting 15s...
+❌ Error for sutra 4.3.120: 429 Quota exceeded for aiplatform.googleapis.com/generate_content_requests_per_minute_per_project_pe
+ ✗ (no word)
+497/498: Verse 19.41
+   Processing sutra 4.3.22... ✓ हैमनैः
+498/498: Verse 19.57
+   Processing sutra 3.1.76... ✓ अशिषत्
+   Processing sutra 6.4.34... ✓ अशिषद्भर्तुरव्याहताज्ञा
+
+💾 Saving final version to: /Users/adarshtadwai/Documents/GitHub/SutraPrayogaInKayvas/texts/extract/raghuvansham_Extract.json
+✅ Complete!
+ waiting 15s...
+ ✓ अशिषत्
+   Processing sutra 6.4.34... ✓ अशिषद्भर्तुरव्याहताज्ञा
+
+💾 Saving final version to: /Users/adarshtadwai/Documents/GitHub/SutraPrayogaInKayvas/texts/extract/raghuvansham_Extract.json
+✅ Complete!

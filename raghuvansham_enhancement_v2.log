@@ -1,0 +1,838 @@
+/opt/homebrew/lib/python3.14/site-packages/vertexai/generative_models/_generative_models.py:433: UserWarning: This feature is deprecated as of June 24, 2025 and will be removed on June 24, 2026. For details, see https://cloud.google.com/vertex-ai/generative-ai/docs/deprecations/genai-vertexai-sdk.
+  warning_logs.show_deprecation_warning()
+================================================================================
+Sutra Enhancement Tool (Gemini via Vertex AI)
+================================================================================
+Extract file: raghuvansham_Extract.json
+================================================================================
+
+Using Gemini via Vertex AI
+Project: anetorg-sinaraya-kartik
+Location: us-central1
+Model: gemini-2.0-flash-exp
+Delay between calls: 30s
+
+================================================================================
+ITERATION 1
+================================================================================
+
+Loading source commentary: /Users/adarshtadwai/Documents/GitHub/SutraPrayogaInKayvas/texts/In/raghuvansham.json
+Loaded commentary for 1569 verses
+
+Loading extract file: /Users/adarshtadwai/Documents/GitHub/SutraPrayogaInKayvas/texts/extract/raghuvansham_Extract.json
+Found 498 verses with 698 sutra references
+Already filled: 516/698 sutras (73.9%)
+Will save progress every 10 verses
+
+Processing...
+
+1/498: Verse 1.1
+   Sutra 1.2.70... ⏭️  (already filled)
+   Sutra 4.1.92... ⏭️  (already filled)
+   Sutra 4.1.15... ⏭️  (already filled)
+2/498: Verse 1.2
+   Sutra 3.3.57... ⏭️  (already filled)
+   Sutra 3.3.19... ⏭️  (already filled)
+   Sutra 3.3.126... ⏭️  (already filled)
+3/498: Verse 1.3
+   Sutra 3.1.124... ⏭️  (already filled)
+4/498: Verse 1.5
+   Sutra 2.1.13... ⏭️  (already filled)
+5/498: Verse 1.6
+   Sutra 2.1.7... ⏭️  (already filled)
+6/498: Verse 1.7
+   Sutra 2.1.36... ⏭️  (already filled)
+7/498: Verse 1.8
+   Sutra 5.1.129... ⏭️  (already filled)
+   Sutra 5.1.133... ⏭️  (already filled)
+   Sutra 3.2.178... ⏭️  (already filled)
+8/498: Verse 1.12
+   Sutra 5.3.57... ⏭️  (already filled)
+9/498: Verse 1.13
+   Sutra 5.4.151... ⏭️  (already filled)
+10/498: Verse 1.17
+   Sutra 5.2.37... ⏭️  (already filled)
+
+💾 Auto-saving progress at verse 10/498...
+✅ Progress saved!
+
+11/498: Verse 1.19
+   Sutra 3.3.118... ⏭️  (already filled)
+   Sutra 6.4.96... ⏭️  (already filled)
+12/498: Verse 1.20
+   Sutra 4.3.23... ⏭️  (already filled)
+13/498: Verse 1.21
+   Sutra 3.2.140... ⏭️  (already filled)
+14/498: Verse 1.23
+   Sutra 7.2.101... ⏭️  (already filled)
+15/498: Verse 1.24
+   Sutra 3.2.99... ⏭️  (already filled)
+16/498: Verse 1.30
+   Sutra 3.2.101... ⏭️  (already filled)
+17/498: Verse 1.31
+   Sutra 3.2.97... ⏭️  (already filled)
+18/498: Verse 1.35
+   Sutra 3.1.9... ⏭️  (already filled)
+   Sutra 3.3.102... ⏭️  (already filled)
+19/498: Verse 1.36
+   Sutra 4.3.17... ⏭️  (already filled)
+20/498: Verse 1.37
+   Sutra 3.3.175... ⏭️  (already filled)
+   Sutra 6.4.74... ⏭️  (already filled)
+
+💾 Auto-saving progress at verse 20/498...
+✅ Progress saved!
+
+21/498: Verse 1.38
+   Sutra 3.1.135... ⏭️  (already filled)
+22/498: Verse 1.40
+   Sutra 1.2.67... ⏭️  (already filled)
+23/498: Verse 1.44
+   Sutra 3.2.103... ⏭️  (already filled)
+   Processing sutra 5.4.25...WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1762425142.914118 2381292 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+ ✓ अर्घ्य
+24/498: Verse 1.45
+   Sutra 2.2.23... ⏭️  (already filled)
+25/498: Verse 1.46
+   Sutra 3.3.106... ⏭️  (already filled)
+26/498: Verse 1.48
+   Sutra 5.4.91... ⏭️  (already filled)
+27/498: Verse 1.49
+   Sutra 3.2.11... ⏭️  (already filled)
+28/498: Verse 1.54
+   Sutra 4.4.77... ⏭️  (already filled)
+   Sutra 6.4.92... ⏭️  (already filled)
+29/498: Verse 1.55
+   Sutra 4.4.104... ⏭️  (already filled)
+   Processing sutra 3.2.133... ✓ अर्हते
+30/498: Verse 1.56
+   Sutra 4.3.23... ⏭️  (already filled)
+
+💾 Auto-saving progress at verse 30/498...
+✅ Progress saved!
+
+31/498: Verse 1.58
+   Sutra 5.4.26... ⏭️  (already filled)
+32/498: Verse 1.59
+   Sutra 2.3.41... ⏭️  (already filled)
+   Sutra 4.4.92... ⏭️  (already filled)
+33/498: Verse 1.60
+   Sutra 4.3.74... ⏭️  (already filled)
+   Sutra 4.1.15... ⏭️  (already filled)
+34/498: Verse 1.61
+   Sutra 3.2.89... ⏭️  (already filled)
+35/498: Verse 1.62
+   Sutra 3.3.51... ⏭️  (already filled)
+36/498: Verse 1.63
+   Sutra 5.4.77... ⏭️  (already filled)
+   Sutra 5.4.78... ⏭️  (already filled)
+37/498: Verse 1.65
+   Sutra 3.2.61... ⏭️  (already filled)
+38/498: Verse 1.66
+   Sutra 5.3.7... ⏭️  (already filled)
+39/498: Verse 1.67
+   Sutra 2.3.29... ⏭️  (already filled)
+40/498: Verse 1.68
+   Sutra 3.3.98... ⏭️  (already filled)
+
+💾 Auto-saving progress at verse 40/498...
+✅ Progress saved!
+
+41/498: Verse 1.71
+   Sutra 3.2.35... ⏭️  (already filled)
+   Sutra 6.3.67... ⏭️  (already filled)
+42/498: Verse 1.74
+   Sutra 1.4.52... ⏭️  (already filled)
+43/498: Verse 1.80
+   Sutra 1.4.46... ⏭️  (already filled)
+44/498: Verse 1.81
+   Processing sutra 5.4.153... ✓ सपत्नीकः
+   Sutra 3.2.70... ⏭️  (already filled)
+45/498: Verse 1.82
+   Sutra 3.3.135... ⏭️  (already filled)
+46/498: Verse 1.83
+   Sutra 8.2.45... ⏭️  (already filled)
+47/498: Verse 1.84
+   Sutra 6.3.107... ⏭️  (already filled)
+   Sutra 2.3.35... ⏭️  (already filled)
+48/498: Verse 1.85
+   Sutra 2.3.35... ⏭️  (already filled)
+49/498: Verse 1.87
+   Sutra 4.1.45... ⏭️  (already filled)
+50/498: Verse 1.89
+   Processing sutra 1.3.22... ✓ प्रतिष्ठेथाः
+
+💾 Auto-saving progress at verse 50/498...
+✅ Progress saved!
+
+51/498: Verse 1.91
+   Sutra 2.1.13... ⏭️  (already filled)
+   Sutra 2.1.6... ⏭️  (already filled)
+   Sutra 6.4.67... ⏭️  (already filled)
+52/498: Verse 1.94
+   Sutra 3.1.136... ⏭️  (already filled)
+   Processing sutra 3.3.19... ✓ संविधाम्
+53/498: Verse 1.95
+   Processing sutra 1.4.46... ✓ पर्णशालामध्यास्य
+54/498: Verse 2.1
+   Sutra 5.2.127... ⏭️  (already filled)
+   Sutra 2.3.14... ⏭️  (already filled)
+55/498: Verse 2.2
+   Sutra 5.2.97... ⏭️  (already filled)
+56/498: Verse 2.3
+   Sutra 3.2.158... ⏭️  (already filled)
+   Processing sutra 2.2.18... ✓ पयोधरीभूत
+   Processing sutra 2.2.24... ✓ पयोधरीभूतचतुःसमुद्रां
+57/498: Verse 2.6
+   Sutra 3.2.108... ⏭️  (already filled)
+   Sutra 4.1.6... ⏭️  (already filled)
+58/498: Verse 2.8
+   Processing sutra 2.3.21... ✓ कैशैरधिज्यधन्वा
+   Processing sutra 5.4.132... ✓ धन्वा
+59/498: Verse 2.10
+   Sutra 3.1.136... ⏭️  (already filled)
+60/498: Verse 2.14
+   Sutra 2.3.41... ⏭️  (already filled)
+
+💾 Auto-saving progress at verse 60/498...
+✅ Progress saved!
+
+61/498: Verse 2.16
+   Sutra 1.4.52... ⏭️  (already filled)
+   Sutra 2.3.67... ⏭️  (already filled)
+62/498: Verse 2.17
+   Sutra 3.1.13... ⏭️  (already filled)
+   Sutra 1.3.90... ⏭️  (already filled)
+   Processing sutra 4.2.88... ✓ शाद्वलानि
+63/498: Verse 2.18
+   Sutra 5.4.74... ⏭️  (already filled)
+64/498: Verse 2.20
+   Processing sutra 5.1.42... ✓ पार्थिवेन
+65/498: Verse 2.23
+   Sutra 3.2.135... ⏭️  (already filled)
+66/498: Verse 2.24
+   Processing sutra 2.3.8... ✓ अनु
+67/498: Verse 2.26
+   Sutra 5.3.22... ⏭️  (already filled)
+   Sutra 1.3.57... ⏭️  (already filled)
+68/498: Verse 2.29
+   Sutra 3.2.102... ⏭️  (already filled)
+   Sutra 5.2.34... ⏭️  (already filled)
+   Sutra 7.4.88... ⏭️  (already filled)
+69/498: Verse 2.30
+   Sutra 4.4.98... ⏭️  (already filled)
+   Sutra 5.1.66... ⏭️  (already filled)
+70/498: Verse 2.33
+   Processing sutra 3.1.119... ✓ गृह्यम्
+   Sutra 6.1.57... ⏭️  (already filled)
+   Sutra 1.3.68... ⏭️  (already filled)
+
+💾 Auto-saving progress at verse 70/498...
+✅ Progress saved!
+
+71/498: Verse 2.37
+   Sutra 3.2.61... ⏭️  (already filled)
+   Sutra 3.1.27... ⏭️  (already filled)
+72/498: Verse 2.39
+   Sutra 2.3.16... ⏭️  (already filled)
+73/498: Verse 2.43
+   Sutra 3.4.83... ⏭️  (already filled)
+74/498: Verse 2.47
+   Sutra 2.3.36... ⏭️  (already filled)
+75/498: Verse 2.49
+   Processing sutra 1.4.25... ✓ गुरोः
+   Sutra 5.4.131... ⏭️  (already filled)
+   Sutra 4.1.25... ⏭️  (already filled)
+76/498: Verse 2.50
+   Sutra 5.2.114... ⏭️  (already filled)
+77/498: Verse 2.52
+   Sutra 5.4.113... ⏭️  (already filled)
+   Sutra 4.1.41... ⏭️  (already filled)
+   Sutra 4.1.41... ⏭️  (already filled)
+   Processing sutra 5.4.11... ✓ सुतरां
+   Sutra 1.1.38... ⏭️  (already filled)
+78/498: Verse 2.53
+   Sutra 3.2.4... ⏭️  (already filled)
+   Sutra 5.2.114... ⏭️  (already filled)
+79/498: Verse 2.54
+   Sutra 2.3.42... ⏭️  (already filled)
+   Sutra 2.3.36... ⏭️  (already filled)
+80/498: Verse 2.55
+   Processing sutra 3.3.56... ✓ निष्क्रयेण
+   Sutra 4.4.92... ⏭️  (already filled)
+
+💾 Auto-saving progress at verse 80/498...
+✅ Progress saved!
+
+81/498: Verse 2.56
+   Sutra 1.4.108... ⏭️  (already filled)
+82/498: Verse 2.60
+   Sutra 5.3.31... ⏭️  (already filled)
+83/498: Verse 2.61
+   Sutra 3.1.10... ⏭️  (already filled)
+84/498: Verse 2.62
+   Sutra 3.1.167... ⏭️  (already filled)
+85/498: Verse 2.63
+   Sutra 3.2.70... ⏭️  (already filled)
+86/498: Verse 2.65
+   Sutra 3.2.1... ⏭️  (already filled)
+87/498: Verse 2.66
+   Sutra 4.3.55... ⏭️  (already filled)
+88/498: Verse 2.69
+   Sutra 5.2.98... ⏭️  (already filled)
+89/498: Verse 2.70
+   Processing sutra 4.3.11... ✓ प्रास्थानिकं
+90/498: Verse 2.71
+   Processing sutra 3.2.12... ✓ हुताशमनन्तरं
+   Sutra 2.1.17... ⏭️  (already filled)
+
+💾 Auto-saving progress at verse 90/498...
+✅ Progress saved!
+
+91/498: Verse 2.74
+   Sutra 3.2.41... ⏭️  (already filled)
+   Sutra 6.3.69... ⏭️  (already filled)
+92/498: Verse 2.75
+   Processing sutra 3.1.136... ✓ समुत्थं
+   Processing sutra 6.4.19... ✓ निष्ठ्यूतमैशम्
+93/498: Verse 3.2
+   Sutra 6.3.35... ⏭️  (already filled)
+94/498: Verse 3.4
+   Sutra 1.3.36... ⏭️  (already filled)
+95/498: Verse 3.5
+   Sutra 4.1.170... ⏭️  (already filled)
+   Sutra 3.2.118... ⏭️  (already filled)
+96/498: Verse 3.12
+   Sutra 3.3.99... ⏭️  (already filled)
+   Sutra 5.2.36... ⏭️  (already filled)
+97/498: Verse 3.14
+   Processing sutra 2.3.5... ✓ दिशः
+98/498: Verse 3.21
+   Sutra 3.3.172... ⏭️  (already filled)
+99/498: Verse 3.22
+   Sutra 8.1.4... ⏭️  (already filled)
+100/498: Verse 3.24
+   Sutra 1.2.67... ⏭️  (already filled)
+
+💾 Auto-saving progress at verse 100/498...
+✅ Progress saved!
+
+101/498: Verse 3.30
+   Sutra 2.1.41... ⏭️  (already filled)
+102/498: Verse 3.32
+   Sutra 5.4.77... ⏭️  (already filled)
+103/498: Verse 3.34
+   Sutra 5.2.98... ⏭️  (already filled)
+104/498: Verse 3.35
+   Sutra 4.1.44... ⏭️  (already filled)
+   Processing sutra 3.3.18... ✓ लघयिष्यता
+   Processing sutra 3.2.62... ✓ शब्दभाक्
+105/498: Verse 3.36
+   Sutra 6.1.146... ⏭️  (already filled)
+106/498: Verse 3.39
+   Sutra 2.3.14... ⏭️  (already filled)
+107/498: Verse 3.44
+   Sutra 2.3.15... ⏭️  (already filled)
+108/498: Verse 3.45
+   Processing sutra 2.1.51... ✓ त्रिलोकनाथेन
+109/498: Verse 3.48
+   Processing sutra 3.4.84... ✓ आत्थ
+110/498: Verse 3.49
+   Sutra 2.2.50... ⏭️  (already filled)
+   Sutra 3.4.83... ⏭️  (already filled)
+
+💾 Auto-saving progress at verse 110/498...
+✅ Progress saved!
+
+111/498: Verse 3.50
+   Sutra 6.4.74... ⏭️  (already filled)
+112/498: Verse 3.51
+   Sutra 5.2.88... ⏭️  (already filled)
+113/498: Verse 3.56
+   Sutra 1.4.37... ⏭️  (already filled)
+114/498: Verse 3.62
+   Sutra 3.2.87... ⏭️  (already filled)
+115/498: Verse 3.63
+   Processing sutra 2.3.29... ✓ तुरंगमात्
+116/498: Verse 3.64
+   Sutra 3.2.38... ⏭️  (already filled)
+   Sutra 6.3.67... ⏭️  (already filled)
+117/498: Verse 3.67
+   Sutra 3.2.108... ⏭️  (already filled)
+118/498: Verse 4.4
+   Sutra 3.2.79... ⏭️  (already filled)
+   Sutra 3.2.78... ⏭️  (already filled)
+   Processing sutra 4.3.79... ✓ पित्र्यम्
+119/498: Verse 4.6
+   Processing sutra 8.1.4... ✓ काले काले
+   Sutra 4.4.92... ⏭️  (already filled)
+120/498: Verse 4.16
+   Sutra 4.3.18... ⏭️  (already filled)
+   Sutra 5.4.38... ⏭️  (already filled)
+
+💾 Auto-saving progress at verse 120/498...
+✅ Progress saved!
+
+121/498: Verse 4.19
+   Sutra 4.2.87... ⏭️  (already filled)
+122/498: Verse 4.20
+   Processing sutra 2.4.22... ✓ इक्षुच्छाय
+   Processing sutra 3.2.1... ✓ शालिगोप्यो
+   Sutra 4.1.15... ⏭️  (already filled)
+123/498: Verse 4.22
+   Sutra 3.2.31... ⏭️  (already filled)
+   Processing sutra 6.3.67... ✓ ककुद्मन्तः
+   Sutra 5.4.77... ⏭️  (already filled)
+124/498: Verse 4.23
+   Sutra 5.4.137... ⏭️  (already filled)
+125/498: Verse 4.24
+   Sutra 8.4.43... ⏭️  (already filled)
+126/498: Verse 4.31
+   Sutra 4.4.91... ⏭️  (already filled)
+127/498: Verse 4.34
+   Processing sutra 3.2.147... ✓ जयी
+   Processing sutra 4.2.98... ✓ पौरस्त्यान्
+128/498: Verse 4.35
+   Sutra 1.4.25... ⏭️  (already filled)
+129/498: Verse 4.40
+   Sutra 4.1.170... ⏭️  (already filled)
+130/498: Verse 4.45
+   Processing sutra 5.4.135... ✓ सुगन्धिना
+   Processing sutra 4.4.45... ✓ सैन्य
+
+💾 Auto-saving progress at verse 130/498...
+✅ Progress saved!
+
+131/498: Verse 4.46
+   Sutra 5.4.34... ⏭️  (already filled)
+   Sutra 1.4.48... ⏭️  (already filled)
+132/498: Verse 4.47
+   Sutra 3.2.136... ⏭️  (already filled)
+133/498: Verse 4.48
+   Processing sutra 4.3.57... ✓ ग्रैवं
+   Processing sutra 1.3.91... ✓ नास्रसत्
+   Sutra 6.4.24... ⏭️  (already filled)
+134/498: Verse 4.49
+   Sutra 1.3.90... ⏭️  (already filled)
+135/498: Verse 4.51
+   Sutra 8.2.13... ⏭️  (already filled)
+   Processing sutra 2.1.39... ✓ दूरौ
+   Sutra 6.3.3... ⏭️  (already filled)
+136/498: Verse 4.52
+   Sutra 8.2.13... ⏭️  (already filled)
+   Sutra 2.1.39... ⏭️  (already filled)
+   Sutra 6.3.3... ⏭️  (already filled)
+137/498: Verse 4.57
+   Sutra 5.4.135... ⏭️  (already filled)
+138/498: Verse 4.61
+   Processing sutra 4.1.63... ✓ यवनी
+139/498: Verse 4.62
+   Processing sutra 4.2.98... ✓ पाश्चात्त्यैरश्वसाधनैः
+140/498: Verse 4.63
+   Sutra 5.2.97... ⏭️  (already filled)
+   Processing sutra 4.3.119... ✓ क्षौद्र
+
+💾 Auto-saving progress at verse 140/498...
+✅ Progress saved!
+
+141/498: Verse 4.65
+   Sutra 1.3.37... ⏭️  (already filled)
+   Sutra 3.2.118... ⏭️  (already filled)
+142/498: Verse 4.69
+   Processing sutra 6.1.51... ✓ आ
+143/498: Verse 4.72
+   Sutra 3.2.15... ⏭️  (already filled)
+144/498: Verse 4.74
+   Sutra 1.4.46... ⏭️  (already filled)
+145/498: Verse 4.75
+   Processing sutra 4.3.57... ✓ ग्रैवेय
+146/498: Verse 4.77
+   Sutra 4.2.143... ⏭️  (already filled)
+147/498: Verse 4.78
+   Processing sutra 1.4.52... ✓ किन्नरान्
+148/498: Verse 4.85
+   Sutra 3.2.139... ⏭️  (already filled)
+149/498: Verse 4.87
+   Sutra 5.4.91... ⏭️  (already filled)
+   Processing sutra 4.1.137... ✓ राजन्यान्
+150/498: Verse 5.1
+   Sutra 4.1.114... ⏭️  (already filled)
+   Sutra 5.2.135... ⏭️  (already filled)
+
+💾 Auto-saving progress at verse 150/498...
+✅ Progress saved!
+
+151/498: Verse 5.2
+   Processing sutra 4.4.104... ✓ आतिथेयः
+   Sutra 6.4.174... ⏭️  (already filled)
+   Sutra 5.4.25... ⏭️  (already filled)
+152/498: Verse 5.3
+   Sutra 8.3.93... ⏭️  (already filled)
+   Sutra 5.1.117... ⏭️  (already filled)
+153/498: Verse 5.4
+   Processing sutra 3.2.89... ✓ मन्त्रकृताम्
+154/498: Verse 5.8
+   Processing sutra 5.3.50... ✓ षष्ठाङ्कितसैकतानि
+   Sutra 2.2.11... ⏭️  (already filled)
+   Processing sutra 5.2.104... ✓ सैकतानि
+155/498: Verse 5.9
+   Processing sutra 4.3.74... ✓ जानपदैः
+   Sutra 5.1.69... ⏭️  (already filled)
+156/498: Verse 5.10
+   Sutra 2.3.14... ⏭️  (already filled)
+   Processing sutra 3.3.164... ✓ संक्रमितुं
+157/498: Verse 5.11
+   Sutra 3.2.113... ⏭️  (already filled)
+   Sutra 2.3.44... ⏭️  (already filled)
+158/498: Verse 5.13
+   Processing sutra 2.3.16... ✓ दृष्टेः
+159/498: Verse 5.15
+   Processing sutra 4.2.129... ✓ आरण्यकोपात्तफलप्रसूतिः
+160/498: Verse 5.17
+   Sutra 2.3.16... ⏭️  (already filled)
+
+💾 Auto-saving progress at verse 160/498...
+✅ Progress saved!
+
+161/498: Verse 5.19
+   Sutra 5.2.134... ⏭️  (already filled)
+162/498: Verse 5.25
+   Processing sutra 2.2.25... ✓ द्वित्राण्यहानि
+   Sutra 5.4.73... ⏭️  (already filled)
+   Processing sutra 3.3.4... ✓ यते
+163/498: Verse 5.28
+   Sutra 1.4.46... ⏭️  (already filled)
+164/498: Verse 5.29
+   Sutra 6.4.174... ⏭️  (already filled)
+165/498: Verse 5.30
+   Sutra 3.2.161... ⏭️  (already filled)
+166/498: Verse 5.31
+   Sutra 3.2.6... ⏭️  (already filled)
+167/498: Verse 5.32
+   Sutra 3.3.132... ⏭️  (already filled)
+168/498: Verse 5.33
+   Sutra 3.2.61... ⏭️  (already filled)
+169/498: Verse 5.36
+   Processing sutra 4.3.120... ✓ ब्राह्मे
+   Sutra 5.6.67... ⏭️  (already filled)
+170/498: Verse 5.37
+   Sutra 7.1.16... ⏭️  (already filled)
+
+💾 Auto-saving progress at verse 170/498...
+✅ Progress saved!
+
+171/498: Verse 5.40
+   Sutra 3.3.117... ⏭️  (already filled)
+172/498: Verse 5.41
+   Sutra 1.1.29... ⏭️  (already filled)
+   Processing sutra 5.3.67... ✓ कल्पाः
+173/498: Verse 5.43
+   Processing sutra 5.3.31... ✓ उपरिष्टात्
+   Sutra 2.1.66... ⏭️  (already filled)
+174/498: Verse 5.52
+   Sutra 5.2.124... ⏭️  (already filled)
+175/498: Verse 5.53
+   Sutra 3.1.79... ⏭️  (already filled)
+   Sutra 3.2.38... ⏭️  (already filled)
+176/498: Verse 5.60
+   Processing sutra 5.1.126... ✓ सख्यमचिन्त्यहेतु
+177/498: Verse 5.63
+   Sutra 1.4.48... ⏭️  (already filled)
+178/498: Verse 5.67
+   Sutra 2.3.44... ⏭️  (already filled)
+179/498: Verse 5.69
+   Sutra 7.4.55... ⏭️  (already filled)
+   Sutra 6.3.14... ⏭️  (already filled)
+180/498: Verse 5.71
+   Sutra 1.3.40... ⏭️  (already filled)
+
+💾 Auto-saving progress at verse 180/498...
+✅ Progress saved!
+
+181/498: Verse 5.72
+   Sutra 3.2.13... ⏭️  (already filled)
+   Processing sutra 6.3.14... ✓ स्तम्बेरमा
+182/498: Verse 5.75
+   Processing sutra 3.1.36... ✓ उज्झांचकार
+   Sutra 5.2.104... ⏭️  (already filled)
+183/498: Verse 5.76
+   Sutra 2.4.45... ⏭️  (already filled)
+184/498: Verse 6.1
+   Sutra 4.4.8... ⏭️  (already filled)
+185/498: Verse 6.5
+   Sutra 1.3.91... ⏭️  (already filled)
+186/498: Verse 6.10
+   Processing sutra 3.2.46... ✓ पतिंवरा
+187/498: Verse 6.14
+   Sutra 3.2.143... ⏭️  (already filled)
+188/498: Verse 6.18
+   Sutra 4.3.62... ⏭️  (already filled)
+189/498: Verse 6.20
+   Sutra 4.1.15... ⏭️  (already filled)
+   Processing sutra 5.1.115... ✓ पुंवत्
+190/498: Verse 6.21
+   Processing sutra 3.2.39... ✓ परंतपः
+   Sutra 6.4.94... ⏭️  (already filled)
+   Sutra 6.3.67... ⏭️  (already filled)
+
+💾 Auto-saving progress at verse 190/498...
+✅ Progress saved!
+
+191/498: Verse 6.22
+   Sutra 8.2.14... ⏭️  (already filled)
+192/498: Verse 6.29
+   Processing sutra 4.1.96... ✓ कल्याणि
+193/498: Verse 6.30
+   Sutra 4.4.82... ⏭️  (already filled)
+194/498: Verse 6.35
+   Processing sutra 4.1.69... ✓ रम्भोरु
+195/498: Verse 6.36
+   Processing sutra 4.2.87... ✓ कुमुद्वती
+196/498: Verse 6.37
+   Sutra 5.4.141... ⏭️  (already filled)
+   Processing sutra 4.1.6... ✓ सुदतीं
+   Processing sutra 5.4.74... ✓ अनूपराजस्य
+   Sutra 6.3.98... ⏭️  (already filled)
+197/498: Verse 6.40
+   Sutra 3.3.114... ⏭️  (already filled)
+198/498: Verse 6.45
+   Sutra 3.2.1... ⏭️  (already filled)
+   Processing sutra 4.1.15... ✓ कुमारी
+199/498: Verse 6.46
+   Sutra 3.2.103... ⏭️  (already filled)
+200/498: Verse 6.49
+   Processing sutra 7.3.36... ✓ कृष्णम्
+
+💾 Auto-saving progress at verse 200/498...
+✅ Progress saved!
+
+201/498: Verse 6.51
+   Processing sutra 5.3.102... ✓ शैलायगन्धीनि
+202/498: Verse 6.59
+   Processing sutra 4.4.69... ✓ दौवारिकी
+   Sutra 7.3.4... ⏭️  (already filled)
+   Processing sutra 4.1.80... ✓ भोज्याम्
+   Sutra 4.1.74... ⏭️  (already filled)
+203/498: Verse 6.63
+   Sutra 4.1.141... ⏭️  (already filled)
+   Sutra 4.1.44... ⏭️  (already filled)
+204/498: Verse 6.67
+   Sutra 8.1.4... ⏭️  (already filled)
+205/498: Verse 6.69
+   Sutra 8.2.55... ⏭️  (already filled)
+206/498: Verse 6.70
+   Processing sutra 3.3.33...⚠️  Rate limit hit for sutra 3.3.33, retry 1/4 after 30s...
+   ✓ Retry succeeded!
+ ✓ वाक्यमिदं
+   Sutra 3.3.57... ⏭️  (already filled)
+207/498: Verse 6.72
+   Sutra 5.4.77... ⏭️  (already filled)
+208/498: Verse 6.73
+   Sutra 2.2.2... ⏭️  (already filled)
+   Sutra 8.3.64... ⏭️  (already filled)
+209/498: Verse 6.78
+   Sutra 3.4.72... ⏭️  (already filled)
+210/498: Verse 6.81
+   Processing sutra 5.2.20... ✓ शालीनतया
+
+💾 Auto-saving progress at verse 210/498...
+✅ Progress saved!
+
+211/498: Verse 6.82
+   Processing sutra 4.1.62... ✓ सख्यां
+212/498: Verse 6.83
+   Sutra 4.1.69... ⏭️  (already filled)
+213/498: Verse 7.4
+   Sutra 2.4.22... ⏭️  (already filled)
+214/498: Verse 7.12
+   Processing sutra 4.1.92... ✓ राघवम्
+215/498: Verse 7.13
+   Sutra 5.1.127... ⏭️  (already filled)
+216/498: Verse 7.14
+   Processing sutra 8.1.15... ✓ द्वन्द्वं
+   Sutra 3.3.139... ⏭️  (already filled)
+217/498: Verse 7.33
+   Sutra 2.3.5... ⏭️  (already filled)
+218/498: Verse 7.37
+   Sutra 6.3.52... ⏭️  (already filled)
+219/498: Verse 7.45
+   Sutra 5.1.2... ⏭️  (already filled)
+220/498: Verse 7.50
+   Sutra 7.2.47... ⏭️  (already filled)
+
+💾 Auto-saving progress at verse 220/498...
+✅ Progress saved!
+
+221/498: Verse 7.53
+   Sutra 2.2.37... ⏭️  (already filled)
+222/498: Verse 7.56
+   Processing sutra 4.2.39... ✓ राजन्यकम्
+223/498: Verse 7.57
+   Processing sutra 3.2.53... ✓ रिपुघ्नान्
+224/498: Verse 7.61
+   Sutra 4.2.24... ⏭️  (already filled)
+225/498: Verse 7.69
+   Sutra 4.1.49... ⏭️  (already filled)
+226/498: Verse 7.70
+   Sutra 3.1.101... ⏭️  (already filled)
+227/498: Verse 8.2
+   Processing sutra 5.4.54... ✓ आत्मसात्
+228/498: Verse 8.6
+   Processing sutra 5.2.140... ✓ शुभंयुना
+   Sutra 4.3.78... ⏭️  (already filled)
+229/498: Verse 8.7
+   Sutra 1.3.66... ⏭️  (already filled)
+230/498: Verse 8.8
+   Sutra 3.2.188... ⏭️  (already filled)
+   Processing sutra 2.3.67... ✓ मतो
+   Processing sutra 2.3.65... ✓ न
+
+💾 Auto-saving progress at verse 230/498...
+✅ Progress saved!
+
+231/498: Verse 8.10
+   Sutra 5.4.124... ⏭️  (already filled)
+232/498: Verse 8.15
+   Sutra 2.3.72... ⏭️  (already filled)
+233/498: Verse 8.20
+   Sutra 5.4.52... ⏭️  (already filled)
+234/498: Verse 8.21
+   Processing sutra 1.3.64... ✓ उपायुङ्क्त
+235/498: Verse 8.22
+   Sutra 1.3.83... ⏭️  (already filled)
+236/498: Verse 8.23
+   Sutra 5.2.44... ⏭️  (already filled)
+   Sutra 4.1.15... ⏭️  (already filled)
+237/498: Verse 8.25
+   Sutra 3.2.91... ⏭️  (already filled)
+238/498: Verse 8.29
+   Sutra 3.4.83... ⏭️  (already filled)
+239/498: Verse 8.32
+   Processing sutra 5.4.122... ✓ प्रजः
+240/498: Verse 8.33
+   Processing sutra 3.1.25... ✓ वीणयितुं
+
+💾 Auto-saving progress at verse 240/498...
+✅ Progress saved!
+
+241/498: Verse 8.35
+   Sutra 7.1.79... ⏭️  (already filled)
+   Processing sutra 7.1.80... ✓ बाष्पमिवाञ्जनाविलम्
+242/498: Verse 8.49
+   Sutra 3.2.188... ⏭️  (already filled)
+   Sutra 2.3.67... ⏭️  (already filled)
+243/498: Verse 8.58
+   Processing sutra 1.4.85... ✓ अनु
+244/498: Verse 8.64
+   Sutra 6.1.15... ⏭️  (already filled)
+245/498: Verse 8.66
+   Sutra 3.3.113... ⏭️  (already filled)
+246/498: Verse 8.72
+   Sutra 5.4.54... ⏭️  (already filled)
+247/498: Verse 8.73
+   Processing sutra 2.1.51... ✓ दशाहतः
+   Sutra 5.4.51... ⏭️  (already filled)
+   Sutra 2.4.29... ⏭️  (already filled)
+248/498: Verse 8.75
+   Sutra 3.2.107... ⏭️  (already filled)
+249/498: Verse 8.76
+   Processing sutra 7.1.36... ✓ विद्वानपि
+   Processing sutra 2.3.69... ✓ लोक
+250/498: Verse 8.79
+   Sutra 1.4.25... ⏭️  (already filled)
+
+💾 Auto-saving progress at verse 250/498...
+✅ Progress saved!
+
+251/498: Verse 8.90
+   Sutra 1.1.33... ⏭️  (already filled)
+252/498: Verse 8.94
+   Sutra 3.2.10... ⏭️  (already filled)
+   Processing sutra 5.1.117... ✓ विधिवत्प्रजानाम्
+253/498: Verse 8.95
+   Processing sutra 3.4.70... ✓ लेख्यमासाद्य
+254/498: Verse 9.2
+   Sutra 3.2.20... ⏭️  (already filled)
+255/498: Verse 9.3
+   Sutra 3.2.135... ⏭️  (already filled)
+256/498: Verse 9.9
+   Sutra 5.4.150... ⏭️  (already filled)
+257/498: Verse 9.19
+   Sutra 1.4.52... ⏭️  (already filled)
+258/498: Verse 9.24
+   Processing sutra 5.4.74... ✓ समधुरं
+259/498: Verse 9.26
+   Processing sutra 1.4.84... ✓ अनु
+260/498: Verse 9.28
+   Sutra 5.1.105... ⏭️  (already filled)
+
+💾 Auto-saving progress at verse 260/498...
+✅ Progress saved!
+
+261/498: Verse 9.34
+   Sutra 5.4.135... ⏭️  (already filled)
+262/498: Verse 9.36
+   Sutra 2.4.31... ⏭️  (already filled)
+263/498: Verse 9.41
+   Sutra 3.2.118... ⏭️  (already filled)
+264/498: Verse 9.43
+   Processing sutra 3.2.143... ✓ विलासिनः
+265/498: Verse 9.53
+   Processing sutra 4.4.8... ✓ वागुरिकाः
+266/498: Verse 9.56
+   Sutra 3.2.150... ⏭️  (already filled)
+   Sutra 4.1.54... ⏭️  (already filled)
+267/498: Verse 9.61
+   Sutra 3.1.40... ⏭️  (already filled)
+268/498: Verse 9.63
+   Sutra 3.2.55... ⏭️  (already filled)
+269/498: Verse 9.67
+   Sutra 1.4.151... ⏭️  (already filled)
+270/498: Verse 9.69
+   Processing sutra 5.4.74... ✓ धराधिपम्
+
+💾 Auto-saving progress at verse 270/498...
+✅ Progress saved!
+
+271/498: Verse 9.74
+   Sutra 5.4.72... ⏭️  (already filled)
+   Sutra 2.4.30... ⏭️  (already filled)
+272/498: Verse 9.77
+   Sutra 1.2.70... ⏭️  (already filled)
+273/498: Verse 9.78
+   Sutra 5.3.7... ⏭️  (already filled)
+274/498: Verse 9.80
+   Sutra 3.1.110... ⏭️  (already filled)
+275/498: Verse 10.2
+   Processing sutra 3.2.50... ✓ शोकतमोपहम्
+276/498: Verse 10.4
+   Sutra 3.2.59... ⏭️  (already filled)
+   Sutra 5.1.40... ⏭️  (already filled)
+277/498: Verse 10.5
+   Sutra 3.2.48... ⏭️  (already filled)
+278/498: Verse 10.6
+   Sutra 8.2.13... ⏭️  (already filled)
+279/498: Verse 10.7
+   Processing sutra 3.1.135... ✓ दिवौकसः
+   Sutra 7.2.83... ⏭️  (already filled)
+280/498: Verse 10.15
+   Sutra 3.1.109... ⏭️  (already filled)
+   Sutra 5.4.77... ⏭️  (already filled)
+
+💾 Auto-saving progress at verse 280/498...
+✅ Progress saved!
+
+281/498: Verse 10.20
+   Sutra 3.1.135... ⏭️  (already filled)
+282/498: Verse 10.21
+   Processing sutra 2.1.51... ✓ सप्तसामोपगीतम्
+   Processing sutra 6.3.18... ✓ सप्तार्णवजलेशयम्
+283/498: Verse 10.22
+   Sutra 5.4.21... ⏭️  (already filled)
+   Sutra 2.1.51... ⏭️  (already filled)
+284/498: Verse 10.24
+   Sutra 3.2.101... ⏭️  (already filled)
+   Sutra 3.4.84... ⏭️  (already filled)
+285/498: Verse 10.26
+   Processing sutra 4.2.114...

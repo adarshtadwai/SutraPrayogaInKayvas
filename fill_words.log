@@ -1,0 +1,27 @@
+/opt/homebrew/lib/python3.14/site-packages/vertexai/generative_models/_generative_models.py:433: UserWarning: This feature is deprecated as of June 24, 2025 and will be removed on June 24, 2026. For details, see https://cloud.google.com/vertex-ai/generative-ai/docs/deprecations/genai-vertexai-sdk.
+  warning_logs.show_deprecation_warning()
+Using Gemini via Vertex AI
+Project: anetorg-sinaraya-kartik
+Model: gemini-2.0-flash-exp
+Delay: 30s
+
+
+================================================================================
+Processing: kumarasambhavam_Extract.json
+================================================================================
+
+Loading source commentary: /Users/adarshtadwai/Documents/GitHub/SutraPrayogaInKayvas/texts/In/kumarasambhavam.json
+Loaded commentary for 613 verses
+
+Loading extract file: /Users/adarshtadwai/Documents/GitHub/SutraPrayogaInKayvas/texts/extract/kumarasambhavam_Extract.json
+Found 32 entries with empty word field
+Processing...
+
+Verse 1.11, Sutra 6.1.91...WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1762428292.328059 2423320 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+ ✓ उद्वेजयति
+Verse 1.26, Sutra 1.4.27... ✓ तपसः
+Verse 1.27, Sutra 1.2.68... ✓ पुत्रवतोऽपि
+Verse 1.58, Sutra 3.2.188... ✓ अर्चितम
+Verse 1.59, Sutra 1.3.57... ✓ शूश्रूषमाणां
+Verse 2.15, Sutra 7.3.69...

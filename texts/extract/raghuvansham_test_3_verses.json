@@ -2,7 +2,7 @@
   "text": "raghuvansham",
   "title": "रघुवंशम्",
   "base_link": "https://sanskritsahitya.org/",
-  "comment": "This file contains 446 unique Panini sutras referenced in the commentary (Test file - first 3 verses) (Enhanced with Gemini via Vertex AI) (Enhanced with Gemini via Vertex AI) (Enhanced with Gemini via Vertex AI) (Enhanced with Gemini via Vertex AI) (Enhanced with Gemini via Vertex AI)",
+  "comment": "This file contains 446 unique Panini sutras referenced in the commentary (Test file - first 3 verses) (Enhanced with Gemini via Vertex AI) (Enhanced with Gemini via Vertex AI) (Enhanced with Gemini via Vertex AI) (Enhanced with Gemini via Vertex AI) (Enhanced with Gemini via Vertex AI) [pada field added]",
   "data": [
     {
       "loc": "1.1",
@@ -12,19 +12,22 @@
           "sutra": "1.2.70",
           "word": "पितरौ",
           "sentence": "माता च पिता च पितरौ, `पिता मात्रा` इति द्वन्द्वैकशेषः।",
-          "description": "माता च पिता च पितरौ, `पिता मात्रा` (पा.1।2।70) इति द्वन्द्वैकशेषः।"
+          "description": "माता च पिता च पितरौ, `पिता मात्रा` (पा.1।2।70) इति द्वन्द्वैकशेषः।",
+          "pada": "जगतः पितरौ वन्दे पार्वतीपरमेश्वरौ"
         },
         {
           "sutra": "4.1.92",
           "word": "पार्वती",
           "sentence": "`तस्यापत्यम्` इच्यण्",
-          "description": "`तस्यापत्यम्` (पा.4।1।92) इच्यण्, `टिङ्ढाणञ्-` (पा.4।1।15)इत्यादिना ङीप्।"
+          "description": "`तस्यापत्यम्` (पा.4।1।92) इच्यण्, `टिङ्ढाणञ्-` (पा.4।1।15)इत्यादिना ङीप्।",
+          "pada": "जगतः पितरौ वन्दे पार्वतीपरमेश्वरौ"
         },
         {
           "sutra": "4.1.15",
           "word": "पार्वती",
           "sentence": "`टिङ्ढाणञ्-` इत्यादिना ङीप्।",
-          "description": "`तस्यापत्यम्` (पा.4।1।92) इच्यण्, `टिङ्ढाणञ्-` (पा.4।1।15)इत्यादिना ङीप्।"
+          "description": "`तस्यापत्यम्` (पा.4।1।92) इच्यण्, `टिङ्ढाणञ्-` (पा.4।1।15)इत्यादिना ङीप्।",
+          "pada": "जगतः पितरौ वन्दे पार्वतीपरमेश्वरौ"
         }
       ]
     },
@@ -36,19 +39,22 @@
           "sutra": "3.3.57",
           "word": "प्रभवो",
           "sentence": "`ॠदोरप्` ।",
-          "description": "प्रभवत्यस्मादिति प्रभवः कारणम्। `ॠदोरप्` (पा.3।3।57)। `अकर्तरि च कारके संज्ञायाम्` (पा.3।3।19) इति साधुः।"
+          "description": "प्रभवत्यस्मादिति प्रभवः कारणम्। `ॠदोरप्` (पा.3।3।57)। `अकर्तरि च कारके संज्ञायाम्` (पा.3।3।19) इति साधुः।",
+          "pada": "क्व सूर्यप्रभवो वंशः क्व चाल्पविषया मतिः"
         },
         {
           "sutra": "3.3.19",
           "word": "प्रभवो",
           "sentence": "`अकर्तरि च कारके संज्ञायाम्` इति साधुः।",
-          "description": "`अकर्तरि च कारके संज्ञायाम्` (पा.3।3।19) इति साधुः।"
+          "description": "`अकर्तरि च कारके संज्ञायाम्` (पा.3।3।19) इति साधुः।",
+          "pada": "क्व सूर्यप्रभवो वंशः क्व चाल्पविषया मतिः"
         },
         {
           "sutra": "3.3.126",
           "word": "दुस्तरं",
           "sentence": "`ईषद्दुःसुषु-` इत्यादिना खल्प्रत्ययः।",
-          "description": "तथा हि-दुस्तरं तरितुमशक्यम्। `ईषद्दुःसुषु-` (पा.3।3।126) इत्यादिना खल्प्रत्ययः।"
+          "description": "तथा हि-दुस्तरं तरितुमशक्यम्। `ईषद्दुःसुषु-` (पा.3।3।126) इत्यादिना खल्प्रत्ययः।",
+          "pada": "तितीर्षुर्दुस्तरं मोहादुडुपेनास्मि सागरम्"
         }
       ]
     },
@@ -60,7 +66,8 @@
           "sutra": "3.1.124",
           "word": "उपहास्यताम्",
           "sentence": "`ऋहलोर्ण्यत्` इति ण्यत्प्रत्ययः।",
-          "description": "`ऋहलोर्ण्यत्` (पा.3।1।124) इति ण्यत्प्रत्ययः।"
+          "description": "`ऋहलोर्ण्यत्` (पा.3।1।124) इति ण्यत्प्रत्ययः।",
+          "pada": "मन्दः कवियशःप्रार्थी गमिष्याम्युपहास्यताम्"
         }
       ]
     }

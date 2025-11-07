@@ -2,7 +2,7 @@
   "text": "kumarasambhavam",
   "title": "कुमारसम्भवम्",
   "base_link": "https://sanskritsahitya.org/",
-  "comment": "This file contains 142 unique Panini sutras referenced in the commentary (Test file - first 3 verses) (Enhanced with Claude/Anthropic) (Enhanced with Claude/Anthropic) (Enhanced with Claude/Anthropic) (Enhanced with Gemini via Vertex AI)",
+  "comment": "This file contains 142 unique Panini sutras referenced in the commentary (Test file - first 3 verses) (Enhanced with Claude/Anthropic) (Enhanced with Claude/Anthropic) (Enhanced with Claude/Anthropic) (Enhanced with Gemini via Vertex AI) [pada field added]",
   "data": [
     {
       "loc": "1.2",
@@ -12,19 +12,22 @@
           "sutra": "2.1.49",
           "word": "सर्वशैलाः",
           "sentence": "`पूर्वकालैकसर्वजरत्पुराणनवकेवलाः समानाधिकरणेन` इति समासः ।",
-          "description": "सर्वे च ते शैलाश्च सर्वशैलाः । `पूर्वकालैकसर्वजरत्पुराणनवकेवलाः समानाधिकरणेन` (पा.2|1|49) इति समासः ।"
+          "description": "सर्वे च ते शैलाश्च सर्वशैलाः । `पूर्वकालैकसर्वजरत्पुराणनवकेवलाः समानाधिकरणेन` (पा.2|1|49) इति समासः ।",
+          "pada": "यं सर्वशैलाः परिकल्प्य वत्सं मेरौ स्थिते दोग्धरि दोहदक्षे"
         },
         {
           "sutra": "2.3.37",
           "word": "यं",
           "sentence": "`यस्य च भावेन भावलक्षणम्` इति सप्तमी ।",
-          "description": "यं हिमालयं वत्सं परिकल्प्य विधाय दोहदक्षे दोहनसमर्थे मेरौ दोग्धरि स्थिते सति । `यस्य च भावेन भावलक्षणम्` (पा.2|3|37) इति सप्तमी ।"
+          "description": "यं हिमालयं वत्सं परिकल्प्य विधाय दोहदक्षे दोहनसमर्थे मेरौ दोग्धरि स्थिते सति । `यस्य च भावेन भावलक्षणम्` (पा.2|3|37) इति सप्तमी ।",
+          "pada": "यं सर्वशैलाः परिकल्प्य वत्सं मेरौ स्थिते दोग्धरि दोहदक्षे"
         },
         {
           "sutra": "1.4.51",
           "word": "धरित्रीम्",
           "sentence": "`अकथितं च` इति कर्मत्वम् ।",
-          "description": "`अकथितं च` (पा.1|4|51) इति कर्मत्वम् ।"
+          "description": "`अकथितं च` (पा.1|4|51) इति कर्मत्वम् ।",
+          "pada": "भास्वन्ति रत्नानि महौषधीश्च पृथूपदिष्टां दुदुहुर्धरित्रीम्"
         }
       ]
     },
@@ -36,7 +39,8 @@
           "sutra": "2.3.65",
           "word": "वारीणां",
           "sentence": "`कर्तृकर्मणोः कृति` इति कर्मणि षष्ठी ।",
-          "description": "कर्तृकर्मणोः कृति (पा.2|3|65) इति कर्मणि षष्ठी ।"
+          "description": "कर्तृकर्मणोः कृति (पा.2|3|65) इति कर्मणि षष्ठी ।",
+          "pada": "यश्चाप्सरोविभ्रममण्डनानां संपादयित्रीं शिखरैर्बिभर्ति"
         }
       ]
     },
@@ -48,7 +52,8 @@
           "sutra": "3.1.136",
           "word": "उत्थेन",
           "sentence": "`आतश्चोपसर्गे` इति कप्रत्ययः ।",
-          "description": "`आतश्चोपसर्गे` (पा.3|1|136) इति कप्रत्ययः ।"
+          "description": "`आतश्चोपसर्गे` (पा.3|1|136) इति कप्रत्ययः ।",
+          "pada": "यः पूरयन्कीचकरन्ध्रभागान्दरीमुखोत्थेन समीरणेन"
         }
       ]
     }

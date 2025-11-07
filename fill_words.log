@@ -24,4 +24,106 @@ Verse 1.26, Sutra 1.4.27... ✓ तपसः
 Verse 1.27, Sutra 1.2.68... ✓ पुत्रवतोऽपि
 Verse 1.58, Sutra 3.2.188... ✓ अर्चितम
 Verse 1.59, Sutra 1.3.57... ✓ शूश्रूषमाणां
-Verse 2.15, Sutra 7.3.69...
+Verse 2.15, Sutra 7.3.69... ✓ भोज्यं
+Verse 2.35, Sutra 5.1.125... ✓ कुसुमस्तेयसाध्वसात्
+Verse 2.46, Sutra 3.2.103... ✓ यज्वभिः
+Verse 2.59, Sutra 8.3.48... ✓ संयमस्तिमितं
+Verse 3.16, Sutra 1.4.33... ✓ तस्मै
+Verse 3.36, Sutra 2.1.69... ✓ कृष्णसारः
+Verse 3.39, Sutra 4.1.54... ✓ स्तनाभ्यः
+Verse 4.6, Sutra 6.3.50... ✓ सौहृदः
+Verse 4.17, Sutra 3.3.89... ✓ सवेपथूनि
+Verse 4.24, Sutra 6.3.67... ✓ हृदयंगमः
+Verse 5.12, Sutra 4.1.6... ✓ निषेदुषी
+Verse 5.14, Sutra 5.3.85... ✓ वृक्षकान्
+Verse 5.16, Sutra 5.2.88... ✓ अधीतिनीम्
+Verse 5.37, Sutra 2.1.50... ✓ सप्तर्षिबलिप्रहासिभिस्तथा
+Verse 6.14, Sutra 1.4.53... ✓ शर्वे
+Verse 6.51, Sutra 5.4.151... ✓ शिलोरस्कः
+Verse 6.62, Sutra 3.2.138... ✓ प्रभविष्णुषु
+Verse 6.64, Sutra 5.4.18... ✓ द्विरिव
+Verse 6.78, Sutra 3.2.3... ✓ वरदः
+Verse 7.10, Sutra 6.3.125... ✓ आवर्जिताष्टापदकुम्भतोयाः
+Verse 7.26, Sutra 6.3.57... ✓ क्षीरोदवेलेव
+Verse 7.42, Sutra 6.3.82... ✓ सहंसपाते
+Verse 7.46, Sutra 3.2.87... ✓ वृत्रहणं
+Verse 7.80, Sutra 5.4.18... ✓ त्रिः
+Verse 8.13, Sutra 1.4.53... ✓ अकारि
+Verse 8.18, Sutra 2.1.49... ✓ दष्टमुक्तम्
+Verse 8.73, Sutra 4.1.54... ✓ चारुमुखि
+
+Saving to: /Users/adarshtadwai/Documents/GitHub/SutraPrayogaInKayvas/texts/extract/kumarasambhavam_Extract.json
+
+================================================================================
+Results: Filled 32, Failed 0
+================================================================================
+
+================================================================================
+Processing: raghuvansham_Extract.json
+================================================================================
+
+Loading source commentary: /Users/adarshtadwai/Documents/GitHub/SutraPrayogaInKayvas/texts/In/raghuvansham.json
+Loaded commentary for 1569 verses
+
+Loading extract file: /Users/adarshtadwai/Documents/GitHub/SutraPrayogaInKayvas/texts/extract/raghuvansham_Extract.json
+Found 50 entries with empty word field
+Processing...
+
+Verse 12.78, Sutra 5.1.132... ✓ विलापाचार्यकं
+Verse 12.86, Sutra 3.3.118... ✓ तनुच्छदम्
+Verse 12.104, Sutra 6.4.56... ✓ संगमय्य
+Verse 12.104, Sutra 1.3.22... ✓ प्रतस्थे
+Verse 13.2, Sutra 5.2.99... ✓ फेनिलम
+Verse 13.5, Sutra 8.1.4... ✓ ताम्
+Verse 13.12, Sutra 3.3.89... ✓ वहोर्मिविस्फूर्जथुनिर्विशेषाः
+Verse 13.24, Sutra 4.1.36... ✓ भीरु!
+Verse 13.44, Sutra 6.3.69... ✓ वाचंयमत्वात्
+Verse 13.44, Sutra 2.1.38... ✓ विमानव्यवधानमुक्तां
+Verse 13.49, Sutra 5.4.135... ✓ सुगन्धि
+Verse 13.61, Sutra 1.4.90... ✓ अनु
+Verse 13.67, Sutra 2.3.69... ✓ अभोक्ता
+Verse 13.75, Sutra 3.3.88... ✓ कृत्रिमभक्तिशोभाः
+Verse 14.15, Sutra 3.1.16... ✓ बाष्पायमाणो
+Verse 14.29, Sutra 6.3.67... ✓ अभ्रंलिहम्
+Verse 14.30, Sutra 1.2.67... ✓ विलासिभिश्चाध्युषितानि
+Verse 14.46, Sutra 2.3.69... ✓ भार्गवेण
+Verse 14.46, Sutra 3.2.108... ✓ द्विषद्वत्
+Verse 14.48, Sutra 3.2.44... ✓ प्रियंकरो
+Verse 14.77, Sutra 5.1.13... ✓ बालेयमकृष्टरोहि
+Verse 15.7, Sutra 3.2.39... ✓ परंतपः
+Verse 15.7, Sutra 6.4.94... ✓ परंतपः
+Verse 15.10, Sutra 8.3.92... ✓ रथप्रष्ठैः
+Verse 15.35, Sutra 4.1.32... ✓ पतिवत्नीषु
+Verse 15.41, Sutra 2.4.54... ✓ आख्यत्
+Verse 15.41, Sutra 3.1.52... ✓ आख्यद्राज्ञे
+Verse 15.61, Sutra 6.4.174... ✓ अनन्यजानेः
+Verse 15.63, Sutra 3.3.106... ✓ प्राचेतसोपज्ञं
+Verse 15.67, Sutra 4.3.7... ✓ जनता
+Verse 15.77, Sutra 4.2.1... ✓ काषायपरिवीतेन
+Verse 15.81, Sutra 3.2.46... ✓ विश्वंभरे
+Verse 15.81, Sutra 6.3.67... ✓ विश्वंभरे
+Verse 15.96, Sutra 5.4.140... ✓ त्रिपादिव
+Verse 16.4, Sutra 2.2.4... ✓ अर्धरात्रे
+Verse 16.12, Sutra 3.3.119... ✓ संचरो
+Verse 16.14, Sutra 3.2.15... ✓ वृक्षेशया
+Verse 16.27, Sutra 8.2.13... ✓ उदन्वानिव
+Verse 16.29, Sutra 1.3.75... ✓ उद्यच्छमाना
+Verse 16.41, Sutra 3.2.157... ✓ मन्दुरासंश्रयिभिस्तुरंगैः
+Verse 16.75, Sutra 3.2.4... ✓ नदीष्णान्
+Verse 16.88, Sutra 2.1.51... ✓ त्रिभुवनगुरोरौरसं
+Verse 17.52, Sutra 3.2.15... ✓ गिरिगुहाशयः
+Verse 17.67, Sutra 3.1.135...  ❌ Error: 503 recvmsg:Operation timed out
+ ✗ (failed)
+Verse 17.76, Sutra 4.4.92... ✓ धर्म्यमेव
+Verse 18.20, Sutra 5.4.75... ✓ उन्नाभ
+Verse 18.28, Sutra 5.3.65... ✓ ब्रह्मिष्ठम्
+Verse 18.39, Sutra 2.1.51... ✓ षड्वर्षदेशीयमपि
+Verse 19.4, Sutra 5.2.74... ✓ अभिकः
+Verse 19.38, Sutra 7.1.80...  ❌ Error: 503 recvmsg:Connection reset by peer
+ ✗ (failed)
+
+Saving to: /Users/adarshtadwai/Documents/GitHub/SutraPrayogaInKayvas/texts/extract/raghuvansham_Extract.json
+
+================================================================================
+Results: Filled 48, Failed 2
+================================================================================
